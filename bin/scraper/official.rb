@@ -7,17 +7,27 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      nodes.first
     end
 
     def position
-      noko.css('.position').text.tidy
+      nodes.last.split(/(?:and (?=Minister)|&)/).map(&:tidy)
+    end
+
+    private
+
+    def nodes
+      noko.xpath('.//text()').map(&:text).map(&:tidy).reject(&:empty?)
     end
   end
 
   class Members
+    def members
+      super.reject { |mem| mem[:position].start_with? 'State Secretary' } # TODO: include these later
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('article table td')
     end
   end
 end
