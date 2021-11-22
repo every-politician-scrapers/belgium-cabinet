@@ -1,0 +1,227 @@
+{
+  "title": "Ludivine Dedonder",
+  "pageID": 65468207,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Politicians from Tournai",
+    "Belgian Ministers of Defence",
+    "Women government ministers of Belgium",
+    "Parti Socialiste (Belgium) politicians",
+    "University of Liège alumni",
+    "21st-century Belgian women politicians",
+    "21st-century Belgian politicians",
+    "Female defence ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ludivine Dedonder (born 17 March 1977) is a Belgian politician of the Socialist Party (PS) who has been serving as Minister of Defence in the government of Prime Minister Alexander De Croo since 2020.",
+              "links": [
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Parti Socialiste (Belgium)"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Belgium)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "De Croo Government"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Belgium"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander De Croo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ludivine Dedonder"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belgian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1977",
+          "month": "3",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ludivine Dedonder"
+          },
+          "office": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Belgium)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Philippe",
+            "links": [
+              {
+                "text": "Philippe",
+                "type": "internal",
+                "page": "Philippe of Belgium"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Alexander De Croo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander De Croo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 October 2020"
+          },
+          "image": {
+            "text": "Ludivine Dedonder.jpg"
+          },
+          "predecessor": {
+            "text": "Philippe Goffin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippe Goffin"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 17, 1977"
+          },
+          "party": {
+            "text": "Socialist Party (francophone)",
+            "links": [
+              {
+                "text": "Socialist Party (francophone)",
+                "type": "internal",
+                "page": "Parti Socialiste (Belgium)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Tournai, Belgium",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tournai"
+              },
+              {
+                "type": "internal",
+                "page": "Belgium"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Liège",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Liège"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ludivine Dedonder",
+          "url": "https://www.belgium.be/nl/over_belgie/overheid/federale_overheid/federale_regering/samenstelling_regering/index_ludivine_dedonder",
+          "url-status": "live",
+          "access-date": "31 December 2020",
+          "website": "belgium.be – Informatie en diensten van de overheid",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "1 October 2020",
+          "title": "Who is in Belgium's new federal government?",
+          "work": "The Brussels Times",
+          "url": "https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "url-status": "live",
+          "access-date": "1 October 2020",
+          "archive-url": "https://web.archive.org/web/20201001110756/https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "archive-date": "1 October 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "30 September 2020",
+          "title": "Le casting du gouvernement De Croo",
+          "url": "https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063003/https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "L'Echo",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Neirynck",
+          "first": "Pieterjan",
+          "date": "1 October 2020",
+          "title": "Comeback Vandenbroucke, geen Calvo of De Block: dit zijn de gezichten van de nieuwe federale regering",
+          "url": "https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063543/https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "Business AM",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "belgium-politician-stub"
+        }
+      ]
+    }
+  ]
+}

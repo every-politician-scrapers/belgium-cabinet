@@ -1,0 +1,129 @@
+{
+  "title": "Oliver Paasch",
+  "pageID": 54272488,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Ministers-President of the German-speaking Community in Belgium",
+    "People from Malmedy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Oliver Paasch (Malmedy, 21 October 1971) is a Belgian politician of the German-speaking Pro Deutschsprachige Gemeinschaft party and the incumbent Prime Minister of the German-speaking Community of Belgium.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malmedy"
+                },
+                {
+                  "text": "Pro Deutschsprachige Gemeinschaft",
+                  "type": "internal",
+                  "page": "ProDG (Belgium)"
+                },
+                {
+                  "type": "internal",
+                  "page": "German-speaking Community of Belgium"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Oliver Paasch"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2004 and 2014 he held several ministerial posts in the Government of the German-language Community."
+            },
+            {
+              "text": "In June 2014 he replaced Karl-Heinz Lambertz as Minister-President of the German-speaking Community.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Karl-Heinz Lambertz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister-President of the German-speaking Community"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Europaforum Wachau-2019 1042.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Europaforum_Wachau-2019_1042.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Europaforum_Wachau-2019_1042.JPG",
+          "caption": "250px",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belgian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "transcription": "'ɔlɪvɐ 'pa:ʃ",
+          "template": "ipa"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Karl-Heinz Lambertz",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister-President of the German-speaking Community",
+          "years": "2014–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
