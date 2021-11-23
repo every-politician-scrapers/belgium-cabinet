@@ -108,6 +108,11 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Jean-Marc Nollet",
+          "lan1": "fr",
+          "template": "ill"
+        },
+        {
           "df": "y",
           "year": "1976",
           "month": "1",

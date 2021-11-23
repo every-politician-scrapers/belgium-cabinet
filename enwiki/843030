@@ -817,9 +817,11 @@
               "text": "After being ten years out of politics on 1 October 2020 on behalf of Conner Rousseau, Vandenbroucke joined the De Croo Government as Deputy Prime Minister and Minister of Health and Social Affairs.",
               "links": [
                 {
-                  "text": "Conner Rousseau",
-                  "type": "internal",
-                  "page": ":nl:Conner Rousseau"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "nl"
+                  }
                 },
                 {
                   "type": "internal",
