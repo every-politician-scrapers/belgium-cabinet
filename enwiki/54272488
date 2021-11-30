@@ -94,36 +94,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Karl-Heinz Lambertz",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister-President of the German-speaking Community",
-          "years": "2014–",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }
