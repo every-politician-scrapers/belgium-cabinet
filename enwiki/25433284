@@ -172,6 +172,11 @@
           "template": "list collapsed"
         },
         {
+          "text": "Jean-Pascal Labille",
+          "lan1": "fr",
+          "template": "ill"
+        },
+        {
           "year": "1975",
           "month": "11",
           "day": "3",
