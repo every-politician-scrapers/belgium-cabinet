@@ -229,9 +229,6 @@
               }
             ]
           },
-          "birthname": {
-            "text": "Paul De Sutter"
-          },
           "nationality": {
             "text": "Belgian",
             "links": [
@@ -266,12 +263,6 @@
         }
       ],
       "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
         {
           "template": "citation",
           "type": "inline",
