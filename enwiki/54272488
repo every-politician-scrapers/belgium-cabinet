@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Oliver Paasch (Malmedy, 21 October 1971) is a Belgian politician of the German-speaking Pro Deutschsprachige Gemeinschaft party and the incumbent Prime Minister of the German-speaking Community of Belgium.",
+              "text": "Oliver Paasch (Malmedy, 21 October 1971) is a Belgian politician of the German-speaking Pro Deutschsprachige Gemeinschaft party and the incumbent Minister-president of the German-speaking Community of Belgium.",
               "links": [
                 {
                   "type": "internal",
@@ -28,6 +28,10 @@
                   "text": "Pro Deutschsprachige Gemeinschaft",
                   "type": "internal",
                   "page": "ProDG (Belgium)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister-president"
                 },
                 {
                   "type": "internal",
