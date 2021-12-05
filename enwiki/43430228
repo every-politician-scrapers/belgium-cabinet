@@ -116,10 +116,6 @@
       ],
       "templates": [
         {
-          "date": "May 2021",
-          "template": "cleanup bare urls"
-        },
-        {
           "template": "date",
           "data": {
             "year": 1963,
