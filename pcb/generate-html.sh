@@ -35,7 +35,7 @@ jq -r 'def highest(array): (array | sort_by(.rank) | reverse | first.value);
     highest(.claims.P18),
     (try (.sitelinks.enwiki) catch null)
   ] | @csv' $RAWBIOS |
-  sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
+  sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' -e 's/Q1052281/female/' >> $BIO_CSV
 
 # TODO: other positions
 # TODO: relations
