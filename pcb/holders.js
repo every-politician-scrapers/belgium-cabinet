@@ -53,6 +53,7 @@ module.exports = (...positions) => {
 
       BIND (
         COALESCE(
+          IF(?endV > NOW(), "", 1/0),
           IF(?endP = 11, SUBSTR(STR(?endV), 1, 10), 1/0),
           IF(?endP = 10, SUBSTR(STR(?endV), 1, 7), 1/0),
           IF(?endP = 9,  SUBSTR(STR(?endV), 1, 4), 1/0),
