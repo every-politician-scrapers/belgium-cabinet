@@ -172,11 +172,6 @@
           "template": "list collapsed"
         },
         {
-          "text": "Jean-Pascal Labille",
-          "lan1": "fr",
-          "template": "ill"
-        },
-        {
           "year": "1975",
           "month": "11",
           "day": "3",
@@ -397,17 +392,30 @@
             "text": "1 October 2020"
           },
           "predecessor5": {
-            "text": "Jean-Pascal Labille"
+            "text": "Jean-Pascal Labille",
+            "links": [
+              {
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "fr"
+                }
+              }
+            ]
           },
           "birth_date": {
             "text": "November 3, 1975"
           },
           "birth_place": {
-            "text": "Vilvoorde, Belgium",
+            "text": "Vilvoorde, Flemish Brabant, Belgium",
             "links": [
               {
                 "type": "internal",
                 "page": "Vilvoorde"
+              },
+              {
+                "type": "internal",
+                "page": "Flemish Brabant"
               }
             ]
           },
