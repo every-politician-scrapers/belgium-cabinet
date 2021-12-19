@@ -188,7 +188,7 @@
             "text": "Prime Ministers"
           },
           "regent": {
-            "text": "Elio Di Rupo Charles Michel Sophie Wilmès Alexander De Croo",
+            "text": "Elio Di Rupo Charles Michel Alexander De Croo",
             "links": [
               {
                 "type": "internal",
@@ -198,10 +198,6 @@
                 "text": "Charles Michel",
                 "type": "internal",
                 "page": "Charles Michel (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "Sophie Wilmès"
               },
               {
                 "type": "internal",
