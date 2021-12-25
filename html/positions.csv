@@ -1,0 +1,33 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q13592862,King of the Belgians,Q31,Q31,,Q792419,,,,,
+Q213107,Prime Minister of Belgium,Q31,Q31,,Q3401744,1831-02-26,,,,Prime Minister of Belgium
+Q87885285,Deputy Prime Minister of Belgium,Q31,Q31,,Q2627186,,,,,
+Q2099024,Minister of Agriculture,Q31,Q31,,,,,,,Minister of Agriculture (Belgium)
+Q2507371,Minister of Budget,Q31,Q31,,,,,,,Minister of Budget (Belgium)
+Q24199589,Minister of Defence of Belgium,Q31,Q31,,Q1854582,,,,,
+Q3066177,Minister of Development Cooperation,Q31,Q31,,,,,,,Minister of Development Cooperation (Belgium)
+Q6866882,Minister of Energy,Q31,Q31,,,,,,,Minister of Energy (Belgium)
+Q2242323,Minister of Finance of Belgium,Q31,Q31,,,,,,,Minister of Finance (Belgium)
+Q1670832,Minister of Foreign Affairs in Belgium,Q31,Q31,,Q21044447,,,,,
+Q168589,Minister of Justice of Belgium,Q31,Q31,,Q24205636,,,,,Minister of Justice (Belgium)
+Q25712501,Minister of Labour and Transport,Q31,Q31,,,,,,,
+Q6866254,Minister of Mobility,Q31,Q31,,,,,,,Minister of Mobility (Belgium)
+Q107465300,Minister of Pensions,Q31,Q31,,Q2648316,,,,,
+Q108067564,"Minister of Small Businesses, the Self-Employed, SMEs and Agriculture, Institutional Reform and Democratic Renewal",Q31,Q31,,,,,,,
+Q25712502,Minister of Social Affairs and Health,Q31,Q31,,,,,,,
+Q25907280,Minister of the Civil Service,Q31,Q31,,,,,,,
+Q108067577,"Minister of the Climate, the Environment, Sustainable Development and Green Deal",Q31,Q31,,,,,,,
+Q108067609,Minister of the Economy and Employment,Q31,Q31,,,,,,,
+Q1922481,Minister of the Interior,Q31,Q31,,Q24206786,,,,,Minister of the Interior (Belgium)
+Q24038694,"State Secretary of Asylum, Migration, Social Integration and Poverty Reduction",Q31,Q31,,,,,,,
+Q108067555,"Secretary of State for Gender Equality, Equal Opportunities and Diversity",Q31,Q31,,,,,,,
+Q26878539,President of the Belgian Senate,Q31,Q31,,Q1849225,1830,,,,
+Q25907282,President of the Chamber of Representatives,Q31,Q31,,Q1850513,,,,,
+Q435627,Minister-President of the Brussels-Capital Region,Q31,Q240,,Q34599470,1989-06-12,,,,Minister-President of the Brussels-Capital Region
+Q2746377,Minister-President of Flanders,Q31,Q234,,Q34607666,1981-12-22,,,,Minister-President of Flanders
+Q3100220,Minister-President of Wallonia,Q31,Q231,,Q34596778,1981-12-22,,,,Minister-President of Wallonia
+Q2311422,Minister-President of the French Community,Q31,Q89959,,Q34609426,1981,,,,Minister-President of the French Community
+Q2326814,Minister-President of the German-speaking Community,Q31,Q90027,,,1984-01-30,,,,Minister-President of the German-speaking Community
+Q109525172,Governor of the National Bank of Belgium,Q31,,,,,,,,
+Q5097012,Chief of Defence,Q31,,,,1958-02-28,,,,Chief of Defence (Belgium)
+Q33126365,mayor of Brussels,Q31,Q239,,Q1812867,,,,,
