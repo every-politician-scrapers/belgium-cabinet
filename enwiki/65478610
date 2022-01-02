@@ -106,57 +106,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Karine Lalieux",
-          "url": "https://www.belgium.be/nl/over_belgie/overheid/federale_overheid/federale_regering/samenstelling_regering/index_karine_lalieux",
-          "url-status": "live",
-          "access-date": "31 December 2020",
-          "website": "belgium.be – Informatie en diensten van de overheid",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "1 October 2020",
-          "title": "Who is in Belgium’s new federal government?",
-          "work": "The Brussels Times",
-          "url": "https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
-          "url-status": "live",
-          "access-date": "1 October 2020",
-          "archive-url": "https://web.archive.org/web/20201001110756/https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
-          "archive-date": "1 October 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "30 September 2020",
-          "title": "Le casting du gouvernement De Croo",
-          "url": "https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20201001063003/https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
-          "archive-date": "1 October 2020",
-          "access-date": "1 October 2020",
-          "website": "L'Echo",
-          "language": "fr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Neirynck",
-          "first": "Pieterjan",
-          "date": "1 October 2020",
-          "title": "Comeback Vandenbroucke, geen Calvo of De Block: dit zijn de gezichten van de nieuwe federale regering",
-          "url": "https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20201001063543/https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
-          "archive-date": "1 October 2020",
-          "access-date": "1 October 2020",
-          "website": "Business AM",
-          "language": "nl",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

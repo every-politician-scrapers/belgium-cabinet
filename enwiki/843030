@@ -389,27 +389,6 @@
             "text": "www.frankvandenbroucke.uva.nl/en_GB/"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.knack.be/nieuws/belgie/leven-en-werken-van-frank-vandenbroucke/article-normal-27756.html",
-          "title": "Leven en werken van Frank Vandenbroucke",
-          "date": "24 September 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -258,37 +258,6 @@
             "text": "http://www.petradesutter.be"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Hugendubel",
-          "first1": "Katrin",
-          "title": "Belgian milestone: A first trans minister and nobody cares",
-          "url": "https://www.politico.eu/article/petra-de-sutter-transgender-deputy-prime-minister-milestone-progress/",
-          "accessdate": "2 October 2020",
-          "work": "Politico",
-          "date": "1 October 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
