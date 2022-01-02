@@ -229,8 +229,9 @@
             "text": "Belgian",
             "links": [
               {
+                "text": "Belgian",
                 "type": "internal",
-                "page": "Belgian"
+                "page": "Belgians"
               }
             ]
           },
