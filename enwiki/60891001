@@ -301,18 +301,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lalibre.be/actu/belgique/au-dela-des-clivages-51b8aaa2e4b0de6db9b6aa07",
-          "title": "Au-delà des clivages",
-          "first": "La",
-          "last": "Libre.be",
-          "date": "9 May 2009",
-          "website": "lalibre.be",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

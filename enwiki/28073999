@@ -329,66 +329,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&rightmenu=right_depute&cfm=cvview53.cfm?key=01238&lactivity=52",
-          "title": "De Kamerleden",
-          "date": "7 May 2010",
-          "website": "De Kamer BE",
-          "accessdate": "26 October 2013",
-          "language": "nl",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20131029195417/http://www.dekamer.be/kvvcr/showpage.cfm?section=%2Fdepute&language=nl&rightmenu=right_depute&cfm=cvview53.cfm%3Fkey%3D01238&lactivity=52",
-          "archivedate": "29 October 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.deredactie.be/cm/vrtnieuws.english/Politics/131025_Jambon_English",
-          "title": "Flemish nationalist Jan Jambon under fire",
-          "last1": "Torfs",
-          "first1": "Michael",
-          "date": "25 October 2013",
-          "website": "Flanders News BE",
-          "accessdate": "26 October 2013",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20131027124646/http://www.deredactie.be/cm/vrtnieuws.english/Politics/131025_Jambon_English",
-          "archivedate": "27 October 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nieuwsblad.be/cnt/blnve_20121218_005",
-          "access-date": "28 June 2016",
-          "date": "18 December 2012",
-          "newspaper": "Het Nieuwsblad",
-          "language": "Dutch",
-          "title": "Nieuwe burgemeester Jan Jambon legt eed af",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "10 November 2014",
-          "access-date": "28 June 2016",
-          "url": "http://www.gva.be/cnt/dmf20141110_01368481/vervanger-van-jambon-legt-eed-af-als-waarnemend-burgemeester-brasschaat",
-          "title": "Vervanger van Jambon legt eed af als waarnemend burgemeester Brasschaat",
-          "newspaper": "Gazet Van Antwerpen",
-          "language": "Dutch",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.ibz.be/code/nl/ministre/index.shtml",
-          "title": "Vice-eersteminister en minister van Veiligheid en Binnenlandse Zaken, belast met de Regie der Gebouwen",
-          "language": "Dutch",
-          "access-date": "28 June 2016",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20160623235928/http://www.ibz.be/code/nl/ministre/index.shtml",
-          "archivedate": "23 June 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

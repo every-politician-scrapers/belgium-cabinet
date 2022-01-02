@@ -166,26 +166,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.deredactie.be/cm/vrtnieuws.english/news/130117_Brussels_Picqu%25C3%25A9_regional_government_vervoort",
-          "title": "Rudi Vervoort to become Brussels Prime Minister",
-          "publisher": "FlandersNews.be",
-          "date": "2013-01-17",
-          "accessdate": "January 17, 2013",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20130120044416/http://www.deredactie.be/cm/vrtnieuws.english/news/130117_Brussels_Picqu%C3%A9_regional_government_vervoort",
-          "archivedate": "January 20, 2013",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

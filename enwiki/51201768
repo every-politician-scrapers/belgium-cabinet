@@ -397,25 +397,6 @@
             "number": 4
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Premier Sophie Wilmès (MR) vraagt morgen het vertrouwen in de Kamer",
-          "url": "https://vrtnws.be/p.NqGMjWNNk",
-          "author": "VRT NWS",
-          "work": "vrtnws.be",
-          "date": "16 March 2020",
-          "access-date": "17 March 2020",
-          "language": "nl",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
