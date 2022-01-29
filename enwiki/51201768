@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Sophie Wilmès Stone (born 15 January 1975) is a Belgian politician serving as Minister of Foreign Affairs since 2020.",
+              "text": "Sophie Wilmès  (born 15 January 1975) is a Belgian politician serving as Minister of Foreign Affairs since 2020.",
               "links": [
                 {
                   "text": "Minister of Foreign Affairs",
@@ -37,7 +37,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Sophie Wilmès Stone"
+                  "Sophie Wilmès "
                 ]
               }
             },
