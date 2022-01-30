@@ -50,6 +50,10 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1981",
           "month": "6",
           "day": "1",
