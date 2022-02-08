@@ -1,0 +1,24 @@
+@@,itemlabel,item,startdate,enddate
++++,François-Philippe de Haussy,Q2640708,1850,1869
++++,Eugène Prévinaire,Q927597,1870,1877
++++,André-Eugène Pirson,Q4759801,1877,1881
++++,Alexandre Jamar,Q774560,1882,1888
++++,Eugène Anspach,Q3059689,1888,1890
++++,Victor Van Hoegaerden,Q7926420,1891,1905
++++,Théophile de Lantsheere,Q7799889,1905,1918
++++,Leon Van der Rest,Q6524933,1918,1923
++++,Fernand Hautain,Q5444515,1923,1926
++++,Louis Franck,Q2193005,1926,1937
++++,Georges Janssen,Q2761681,1938,1941
++++,Albert Goffin,Q2976292,1941,
++++,Georges Theunis,Q14991,1941,1944
++++,Maurice Frère,Q3300806,1944,1957
++++,Hubert Ansiaux,Q742865,1957,1971
++++,Robert Vandeputte,Q1898248,1971,1975
++++,Cecil de Strycker,Q2556552,1975,1982
++++,Jean Godeaux,Q2241115,1982,1989
++++,Alfons Verplaetse,Q2521512,1989,1999
++++,Guy Quaden,Q1774517,1999,2011
++++,Luc Coene,Q466176,2011,2015
+->,Jan Smets,Q19334606->NULL,2015-04-11->2015,2019-01-02->2019
++++,Pierre Wunsch,,2019,
