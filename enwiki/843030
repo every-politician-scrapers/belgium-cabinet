@@ -1,395 +1,46 @@
 {
-  "title": "Frank Vandenbroucke (politician)",
-  "pageID": 843030,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Belgian socialists",
-    "Belgian Ministers of State",
-    "Politicians from Leuven",
-    "Foreign ministers of Belgium",
-    "Socialistische Partij Anders politicians",
-    "Alumni of the University of Cambridge",
-    "KU Leuven alumni",
-    "Alumni of the University of Oxford",
-    "University of Antwerp faculty",
-    "21st-century Belgian politicians",
-    "Government ministers of Belgium"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": [
-            {
-              "text": "Frank Ignace Georgette Vandenbroucke (born 21 October 1955) is a Belgian-Flemish academic and politician of Vooruit who has been serving as Deputy Prime Minister and Minister of Health and Social Affairs in the government of Prime Minister Alexander De Croo since 2020.",
-              "links": [
-                {
-                  "text": "Flemish",
-                  "type": "internal",
-                  "page": "Flemings"
-                },
-                {
-                  "text": "Vooruit",
-                  "type": "internal",
-                  "page": "Forward (Belgium)"
-                },
-                {
-                  "text": "government",
-                  "type": "internal",
-                  "page": "De Croo Government"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Belgium"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alexander De Croo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Frank Ignace Georgette Vandenbroucke"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Frank Vandenbroucke.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Frank_Vandenbroucke.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Frank_Vandenbroucke.jpg",
-          "caption": "Frank Vandenbroucke in 2006 in Turnhout",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Belgian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1955",
-          "month": "10",
-          "day": "21",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Politician",
-            "Public servant",
-            "Professor"
-          ],
-          "template": "ubl"
-        },
-        {
-          "transcription": "ˈfrɑŋk vɑndɛnˈbrukə",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Frank Vandenbroucke"
-          },
-          "image": {
-            "text": "Frank Vandenbroucke 1 mei Leuven.jpg"
-          },
-          "office": {
-            "text": "Minister of Health and Social Affairs",
-            "links": [
-              {
-                "text": "Minister of Health and Social Affairs",
-                "type": "internal",
-                "page": "Federal Government of Belgium"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Alexander De Croo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander De Croo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 October 2020"
-          },
-          "predecessor": {
-            "text": "Maggie De Block",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maggie De Block"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "List of Foreign Ministers of Belgium"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jean-Luc Dehaene",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Luc Dehaene"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "10 October 1994"
-          },
-          "term_end1": {
-            "text": "22 March 1995"
-          },
-          "predecessor1": {
-            "text": "Willy Claes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Willy Claes"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Erik Derycke",
-            "links": [
-              {
-                "text": "Erik Derycke",
-                "type": "internal",
-                "page": "Erik Derycke (politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Social Affairs"
-          },
-          "primeminister2": {
-            "text": "Guy Verhofstadt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guy Verhofstadt"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "12 July 1999"
-          },
-          "term_end2": {
-            "text": "12 July 2003"
-          },
-          "predecessor2": {
-            "text": "Magda De Galan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Magda De Galan"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Rudy Demotte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rudy Demotte"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Pensions"
-          },
-          "primeminister3": {
-            "text": "Guy Verhofstadt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guy Verhofstadt"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "12 July 1999"
-          },
-          "term_end3": {
-            "text": "20 July 2004"
-          },
-          "predecessor3": {
-            "text": "Jan Peeters",
-            "links": [
-              {
-                "text": "Jan Peeters",
-                "type": "internal",
-                "page": "Jan Peeters (politician)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Bruno Tobback",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bruno Tobback"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Employment"
-          },
-          "primeminister4": {
-            "text": "Guy Verhofstadt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guy Verhofstadt"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "12 July 2003"
-          },
-          "term_end4": {
-            "text": "20 July 2004"
-          },
-          "predecessor4": {
-            "text": "Laurette Onkelinx",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laurette Onkelinx"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Freya Van den Bossche",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Freya Van den Bossche"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Flemish Minister of Education",
-            "links": [
-              {
-                "text": "Flemish Minister",
-                "type": "internal",
-                "page": "Flemish Government"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "20 July 2004"
-          },
-          "term_end5": {
-            "text": "13 July 2009"
-          },
-          "predecessor5": {
-            "text": "Marleen Vanderpoorten",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marleen Vanderpoorten"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Pascal Smet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pascal Smet"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 21, 1955"
-          },
-          "birth_place": {
-            "text": "Leuven, Belgium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leuven"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Frank Ignace Georgette Vandenbroucke"
-          },
-          "nationality": {
-            "text": "Belgian"
-          },
-          "party": {
-            "text": "Vooruit",
-            "links": [
-              {
-                "text": "Vooruit",
-                "type": "internal",
-                "page": "Forward (Belgium)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Radical Workers' League (RAL) (1970s)",
-            "links": [
-              {
-                "text": "Radical Workers' League",
-                "type": "internal",
-                "page": "Revolutionary Communist League (Belgium)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Katholieke Universiteit Leuven University of Cambridge University of Oxford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Katholieke Universiteit Leuven"
-              },
-              {
-                "type": "internal",
-                "page": "University of Cambridge"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oxford"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\nPublic servant\n\nProfessor"
-          },
-          "website": {
-            "text": "www.frankvandenbroucke.uva.nl/en_GB/"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Frank Vandenbroucke",
+  "image": "Frank Vandenbroucke 1 mei Leuven.jpg",
+  "office": "Minister of Health and Social Affairs",
+  "primeminister": "Alexander De Croo",
+  "term_start": "1 October 2020",
+  "predecessor": "Maggie De Block",
+  "office1": "Minister of Foreign Affairs",
+  "primeminister1": "Jean-Luc Dehaene",
+  "term_start1": "10 October 1994",
+  "term_end1": "22 March 1995",
+  "predecessor1": "Willy Claes",
+  "successor1": "Erik Derycke",
+  "office2": "Minister of Social Affairs",
+  "primeminister2": "Guy Verhofstadt",
+  "term_start2": "12 July 1999",
+  "term_end2": "12 July 2003",
+  "predecessor2": "Magda De Galan",
+  "successor2": "Rudy Demotte",
+  "office3": "Minister of Pensions",
+  "primeminister3": "Guy Verhofstadt",
+  "term_start3": "12 July 1999",
+  "term_end3": "20 July 2004",
+  "predecessor3": "Jan Peeters",
+  "successor3": "Bruno Tobback",
+  "office4": "Minister of Employment",
+  "primeminister4": "Guy Verhofstadt",
+  "term_start4": "12 July 2003",
+  "term_end4": "20 July 2004",
+  "predecessor4": "Laurette Onkelinx",
+  "successor4": "Freya Van den Bossche",
+  "office5": "Flemish Minister of Education",
+  "term_start5": "20 July 2004",
+  "term_end5": "13 July 2009",
+  "predecessor5": "Marleen Vanderpoorten",
+  "successor5": "Pascal Smet",
+  "birth_date": "October 21, 1955",
+  "birth_place": "Leuven, Belgium",
+  "birthname": "Frank Ignace Georgette Vandenbroucke",
+  "nationality": "Belgian",
+  "party": "Vooruit",
+  "otherparty": "Radical Workers' League (RAL) (1970s)",
+  "alma_mater": "Katholieke Universiteit Leuven University of Cambridge University of Oxford",
+  "occupation": "Politician\n\nPublic servant\n\nProfessor",
+  "website": "www.frankvandenbroucke.uva.nl/en_GB/"
 }

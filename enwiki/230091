@@ -1,369 +1,40 @@
 {
-  "title": "Elio Di Rupo",
-  "pageID": 230091,
-  "categories": [
-    "1951 births",
-    "Living people",
-    "Recipients of the Grand Cross of the Order of Leopold II",
-    "Belgian atheists",
-    "Belgian chemists",
-    "Belgian Ministers of State",
-    "Belgian people of Italian descent",
-    "Belgian socialists",
-    "Belgian Freemasons",
-    "Former Roman Catholics",
-    "Gay politicians",
-    "Government ministers of Belgium",
-    "LGBT heads of government",
-    "LGBT politicians from Belgium",
-    "Mayors of places in Belgium",
-    "Members of the Chamber of Representatives (Belgium)",
-    "Members of the Senate (Belgium)",
-    "Ministers-President of Wallonia",
-    "Parti Socialiste (Belgium) MEPs",
-    "Prime Ministers of Belgium",
-    "21st-century Belgian politicians",
-    "LGBT mayors",
-    "LGBT legislators"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Elio Di Rupo (born 18 July 1951) is a Belgian socialist politician who is the Minister-President of Wallonia.",
-              "links": [
-                {
-                  "text": "socialist",
-                  "type": "internal",
-                  "page": "Socialism"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister-President of Wallonia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Elio Di Rupo"
-                ]
-              }
-            },
-            {
-              "text": "He served as the Prime Minister of Belgium from 6 December 2011 to 11 October 2014, and headed the Di Rupo Government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Belgium"
-                },
-                {
-                  "type": "internal",
-                  "page": "Di Rupo Government"
-                }
-              ]
-            },
-            {
-              "text": "Di Rupo was the first francophone to hold the office since Paul Vanden Boeynants in 1979, and the country's first socialist Prime Minister since Edmond Leburton left office in 1974.",
-              "links": [
-                {
-                  "text": "francophone",
-                  "type": "internal",
-                  "page": "francophone"
-                },
-                {
-                  "type": "internal",
-                  "page": "Paul Vanden Boeynants"
-                },
-                {
-                  "type": "internal",
-                  "page": "Edmond Leburton"
-                }
-              ]
-            },
-            {
-              "text": "He was also Belgium's first Prime Minister of non-Belgian descent, and the world's second openly gay person and first openly gay man to be head of government in modern times.",
-              "links": [
-                {
-                  "text": "second openly gay person and first openly gay man to be head of government",
-                  "type": "internal",
-                  "page": "List of the first LGBT holders of political offices"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Belgian politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Di Rupo",
-            "Rupo"
-          ],
-          "template": "family name hatnote"
-        },
-        {
-          "date": "October 2013",
-          "template": "engvarb"
-        },
-        {
-          "date": "June 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1951",
-          "month": "7",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "eljo di ʁupo",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Elio Di Rupo"
-          },
-          "image": {
-            "text": "File:Di Rupo cropped.jpg"
-          },
-          "office": {
-            "text": "Prime Minister of Belgium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Belgium"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Albert II\nPhilippe",
-            "links": [
-              {
-                "text": "Albert II",
-                "type": "internal",
-                "page": "Albert II of Belgium"
-              },
-              {
-                "text": "Philippe",
-                "type": "internal",
-                "page": "Philippe of Belgium"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 December 2011"
-          },
-          "term_end": {
-            "text": "11 October 2014"
-          },
-          "predecessor": {
-            "text": "Yves Leterme",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yves Leterme"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Charles Michel",
-            "links": [
-              {
-                "text": "Charles Michel",
-                "type": "internal",
-                "page": "Charles Michel (politician)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister-President of Wallonia",
-            "links": [
-              {
-                "text": "Minister-President",
-                "type": "internal",
-                "page": "Minister-President of Wallonia"
-              },
-              {
-                "type": "internal",
-                "page": "Wallonia"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 September 2019"
-          },
-          "predecessor1": {
-            "text": "Willy Borsus",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Willy Borsus"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 October 2005"
-          },
-          "term_end2": {
-            "text": "20 July 2007"
-          },
-          "predecessor2": {
-            "text": "André Antoine"
-          },
-          "successor2": {
-            "text": "Rudy Demotte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rudy Demotte"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "15 July 1999"
-          },
-          "term_end3": {
-            "text": "4 April 2000"
-          },
-          "predecessor3": {
-            "text": "Robert Collignon"
-          },
-          "successor3": {
-            "text": "Jean-Claude Van Cauwenberghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Claude Van Cauwenberghe"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Leader of the Socialist Party",
-            "links": [
-              {
-                "text": "Leader of the Socialist Party",
-                "type": "internal",
-                "page": "Parti Socialiste (Belgium)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "22 November 2014"
-          },
-          "term_end4": {
-            "text": "21 October 2019"
-          },
-          "predecessor4": {
-            "text": "Paul Magnette",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Magnette"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Paul Magnette",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Magnette"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "16 September 1999"
-          },
-          "term_end5": {
-            "text": "6 December 2011"
-          },
-          "predecessor5": {
-            "text": "Philippe Busquin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philippe Busquin"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Thierry Giet"
-          },
-          "office6": {
-            "text": "Mayor of Mons",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mons"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "8 October 2000"
-          },
-          "term_end6": {
-            "text": "3 December 2018"
-          },
-          "predecessor6": {
-            "text": "Maurice Lafosse"
-          },
-          "successor6": {
-            "text": "Nicolas Martin"
-          },
-          "birth_date": {
-            "text": "July 18, 1951"
-          },
-          "birth_place": {
-            "text": "Morlanwelz, Belgium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Morlanwelz"
-              },
-              {
-                "type": "internal",
-                "page": "Belgium"
-              }
-            ]
-          },
-          "party": {
-            "text": "Socialist Party",
-            "links": [
-              {
-                "text": "Socialist Party",
-                "type": "internal",
-                "page": "Parti Socialiste (Belgium)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Mons-Hainaut\nUniversity of Leeds",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Mons-Hainaut"
-              },
-              {
-                "type": "internal",
-                "page": "University of Leeds"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Accession Treaty 2011 Elio Di Rupo signature.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Elio Di Rupo",
+  "image": "File:Di Rupo cropped.jpg",
+  "office": "Prime Minister of Belgium",
+  "monarch": "Albert II\nPhilippe",
+  "term_start": "6 December 2011",
+  "term_end": "11 October 2014",
+  "predecessor": "Yves Leterme",
+  "successor": "Charles Michel",
+  "office1": "Minister-President of Wallonia",
+  "term_start1": "13 September 2019",
+  "predecessor1": "Willy Borsus",
+  "term_start2": "6 October 2005",
+  "term_end2": "20 July 2007",
+  "predecessor2": "André Antoine",
+  "successor2": "Rudy Demotte",
+  "term_start3": "15 July 1999",
+  "term_end3": "4 April 2000",
+  "predecessor3": "Robert Collignon",
+  "successor3": "Jean-Claude Van Cauwenberghe",
+  "office4": "Leader of the Socialist Party",
+  "term_start4": "22 November 2014",
+  "term_end4": "21 October 2019",
+  "predecessor4": "Paul Magnette",
+  "successor4": "Paul Magnette",
+  "term_start5": "16 September 1999",
+  "term_end5": "6 December 2011",
+  "predecessor5": "Philippe Busquin",
+  "successor5": "Thierry Giet",
+  "office6": "Mayor of Mons",
+  "term_start6": "8 October 2000",
+  "term_end6": "3 December 2018",
+  "predecessor6": "Maurice Lafosse",
+  "successor6": "Nicolas Martin",
+  "birth_date": "July 18, 1951",
+  "birth_place": "Morlanwelz, Belgium",
+  "party": "Socialist Party",
+  "alma_mater": "University of Mons-Hainaut\nUniversity of Leeds",
+  "signature": "Accession Treaty 2011 Elio Di Rupo signature.svg"
 }
