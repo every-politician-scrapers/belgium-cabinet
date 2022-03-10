@@ -1,302 +1,35 @@
 {
-  "title": "Philippe of Belgium",
-  "pageID": 168868,
-  "categories": [
-    "1960 births",
-    "21st-century Belgian monarchs",
-    "20th-century Roman Catholics",
-    "21st-century Roman Catholics",
-    "Royal Military Academy (Belgium) alumni",
-    "Alumni of Trinity College, Oxford",
-    "Belgian monarchs",
-    "Members of the Senate (Belgium)",
-    "Belgian people of Danish descent",
-    "Belgian people of German descent",
-    "Belgian people of Italian descent",
-    "Belgian people of Swedish descent",
-    "Belgian Roman Catholics",
-    "Roman Catholic monarchs",
-    "Dukes of Brabant",
-    "House of Belgium",
-    "Living people",
-    "People from Laeken",
-    "Princes of Saxe-Coburg and Gotha",
-    "Stanford University alumni",
-    "Grand Crosses of the Order of Aviz",
-    "Grand Crosses of the Order of Christ (Portugal)",
-    "Grand Crosses of the Order of Honour (Greece)",
-    "Grand Crosses Special Class of the Order of Merit of the Federal Republic of Germany",
-    "Grand Crosses of the Order of Merit of the Republic of Hungary (civil)",
-    "Grand Crosses of the Order of Merit of the Republic of Poland",
-    "Grand Crosses of the Order of the Liberator General San Martin",
-    "Knights Grand Cross of the Order of Isabella the Catholic",
-    "Knights Grand Cross of the Order of Orange-Nassau",
-    "Knights of the Golden Fleece of Austria",
-    "Knights of the Holy Sepulchre",
-    "Knights of Malta",
-    "Grand Croix of the Légion d'honneur",
-    "House of Saxe-Coburg and Gotha (Belgium)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Philippe or Filip (Filip Leopold Lodewijk Maria ; Philippe Léopold Louis Marie ; born 15 April 1960) is King of the Belgians.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "King of the Belgians"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Philippe",
-                  "Filip"
-                ]
-              }
-            },
-            {
-              "text": "He is the eldest child of King Albert II and Queen Paola.",
-              "links": [
-                {
-                  "text": "King Albert II",
-                  "type": "internal",
-                  "page": "Albert II of Belgium"
-                },
-                {
-                  "type": "internal",
-                  "page": "Queen Paola"
-                }
-              ]
-            },
-            {
-              "text": "He succeeded his father upon the latter's abdication for health reasons on 21 July 2013."
-            },
-            {
-              "text": "He married Mathilde d'Udekem d'Acoz in 1999, with whom he has four children.",
-              "links": [
-                {
-                  "text": "Mathilde d'Udekem d'Acoz",
-                  "type": "internal",
-                  "page": "Queen Mathilde of Belgium"
-                }
-              ]
-            },
-            {
-              "text": "Their eldest child, Princess Elisabeth, is first in the line of succession.",
-              "links": [
-                {
-                  "text": "Princess Elisabeth",
-                  "type": "internal",
-                  "page": "Princess Elisabeth, Duchess of Brabant"
-                },
-                {
-                  "text": "line of succession",
-                  "type": "internal",
-                  "page": "succession to the Belgian throne"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Seventh king of the Belgians since 2013",
-          "template": "short description"
-        },
-        {
-          "date": "September 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "spouse": "Jonkvrouw Mathilde d'Udekem d'Acoz",
-          "from": "4 December 1999",
-          "template": "marriage"
-        },
-        {
-          "year": "1960",
-          "month": "4",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "template": "belgian royal family"
-        },
-        {
-          "transcription": "ˈfilɪp ˈleːjoːpɔlt ˈloːdəʋɛik maːˈrijaː",
-          "template": "ipa"
-        },
-        {
-          "transcription": "filip leɔpɔld lwi maʁi",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Philippe"
-          },
-          "image": {
-            "text": "Sergio Mattarella and Belgian King Philippe at Quirinale in 2021 (6) (cropped).jpg"
-          },
-          "caption": {
-            "text": "King Philippe during an official visit to Italy in 2021"
-          },
-          "succession": {
-            "text": "King of the Belgians",
-            "links": [
-              {
-                "text": "King of the Belgians",
-                "type": "internal",
-                "page": "Monarchy of Belgium"
-              }
-            ]
-          },
-          "reign": {
-            "text": "21 July 2013 – present"
-          },
-          "predecessor": {
-            "text": "Albert II",
-            "links": [
-              {
-                "text": "Albert II",
-                "type": "internal",
-                "page": "Albert II of Belgium"
-              }
-            ]
-          },
-          "suc-type": {
-            "text": "Heiress apparent"
-          },
-          "successor": {
-            "text": "Elisabeth",
-            "links": [
-              {
-                "text": "Elisabeth",
-                "type": "internal",
-                "page": "Princess Elisabeth, Duchess of Brabant"
-              }
-            ]
-          },
-          "reg-type": {
-            "text": "Prime Ministers"
-          },
-          "regent": {
-            "text": "Elio Di Rupo Charles Michel Alexander De Croo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elio Di Rupo"
-              },
-              {
-                "text": "Charles Michel",
-                "type": "internal",
-                "page": "Charles Michel (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander De Croo"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Jonkvrouw Mathilde d'Udekem d'Acoz (m. 4 December 1999)"
-          },
-          "issue-link": {
-            "text": "#Marriage"
-          },
-          "issue": {
-            "text": "Princess Elisabeth, Duchess of Brabant\n\nPrince Gabriel\n\nPrince Emmanuel\n\nPrincess Eléonore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Princess Elisabeth, Duchess of Brabant"
-              },
-              {
-                "text": "Prince Gabriel",
-                "type": "internal",
-                "page": "Prince Gabriel of Belgium"
-              },
-              {
-                "text": "Prince Emmanuel",
-                "type": "internal",
-                "page": "Prince Emmanuel of Belgium"
-              },
-              {
-                "text": "Princess Eléonore",
-                "type": "internal",
-                "page": "Princess Eléonore of Belgium"
-              }
-            ]
-          },
-          "full name": {
-            "text": "Filip Leopold Lodewijk Maria Philippe Léopold Louis Marie Philipp Leopold Ludwig Maria"
-          },
-          "house": {
-            "text": "Belgium",
-            "links": [
-              {
-                "text": "Belgium",
-                "type": "internal",
-                "page": "House of Belgium"
-              }
-            ]
-          },
-          "father": {
-            "text": "Albert II of Belgium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albert II of Belgium"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Paola Ruffo di Calabria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paola Ruffo di Calabria"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 15, 1960"
-          },
-          "birth_place": {
-            "text": "Belvédère Castle, Laeken, Brussels, Belgium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belvédère Castle"
-              },
-              {
-                "type": "internal",
-                "page": "Laeken"
-              },
-              {
-                "type": "internal",
-                "page": "Brussels"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Roman Catholicism",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roman Catholicism"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Philippe",
+  "image": "Sergio Mattarella and Belgian King Philippe at Quirinale in 2021 (6) (cropped).jpg",
+  "caption": "King Philippe during an official visit to Italy in 2021",
+  "succession": "King of the Belgians",
+  "reign": "21 July 2013 – present",
+  "predecessor": "Albert II",
+  "suc-type": "Heiress apparent",
+  "successor": "Elisabeth",
+  "reg-type": "Prime Ministers",
+  "regent": "Elio Di Rupo Charles Michel Alexander De Croo",
+  "spouse": "Jonkvrouw Mathilde d'Udekem d'Acoz (m. 4 December 1999)",
+  "issue-link": "#Marriage",
+  "issue": "Princess Elisabeth, Duchess of Brabant\n\nPrince Gabriel\n\nPrince Emmanuel\n\nPrincess Eléonore",
+  "full name": "Filip Leopold Lodewijk Maria Philippe Léopold Louis Marie Philipp Leopold Ludwig Maria",
+  "house": "Belgium",
+  "father": "Albert II of Belgium",
+  "mother": "Paola Ruffo di Calabria",
+  "birth_date": "April 15, 1960",
+  "birth_place": "Belvédère Castle, Laeken, Brussels, Belgium",
+  "religion": "Roman Catholicism"
+}
+{
+  "image": "Coat of Arms of the King of the Belgians.svg",
+  "notes": "In 2019 the king codified the coats of arms of himself and those of his family through a Royal Decree. The arms of the reigning monarch was modified to include the Saxonian escutcheon. The arms of other members of the royal family was similarly modified. The reinstatement of the shield of Saxe-Coburg-Gotha into the royal arms occurred shortly after the visit of the king and queen to the ancestral Friedenstein Castle. The latest royal decree therefore reverses previous changes made to the Royal versions of the coat arms which removed the armorial bearings of Saxony during the First World War. By including the three official languages in the motto it reflects his wish \"to be the King of the whole Kingdom and of all Belgians\".",
+  "year_adopted": "12 July 2019",
+  "coronet": "Royal crown of Belgium",
+  "helm": "A golden royal helm with the visor open",
+  "escutcheon": "Sable, a lion rampant or, armed and langued gules (Belgium), on the shoulder an escutcheon barry of ten sable and or, a crancelin vert (Wettin), with two crossed sceptres (a hand of justice and a lion) or behind a shield.",
+  "supporters": "Two lions guardant proper each supporting a lance or with two National Flags of Belgium (Tierced per pale Sable, Or and Gules).",
+  "orders": "Order of Leopold",
+  "motto": "L'union fait la force Eendracht maakt macht Einigkeit macht stark",
+  "other_elements": "The whole is placed on a mantle purpure with ermine lining, fringes and tassels or and ensigned with the Royal crown of Belgium.",
+  "previous_versions": "Previously as monarch, Philippe used the royal coat of arms of Belgium undifferenced."
 }
