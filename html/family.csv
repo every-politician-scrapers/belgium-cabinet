@@ -1,0 +1,121 @@
+id,name,relationship,relative,relativename
+Q12498,Stefaan De Clerck,father,Q1985246,Albert De Clerck
+Q1283280,Albert Liénard,child,Q2929895,Bénédicte Liénard
+Q12978,Guy Verhofstadt,sibling,Q1998566,Dirk Verhofstadt
+Q12983,Herman Van Rompuy,child,Q3140213,Peter Van Rompuy
+Q12983,Herman Van Rompuy,father,Q59544808,Vic Van Rompuy
+Q12983,Herman Van Rompuy,sibling,Q1266784,Tine Van Rompuy
+Q12983,Herman Van Rompuy,sibling,Q451040,Eric Van Rompuy
+Q12983,Herman Van Rompuy,sibling,Q62090714,Anita Van Rompuy
+Q12983,Herman Van Rompuy,spouse,Q59544332,Geertrui Windels
+Q1351926,Herman De Croo,child,Q476596,Alexander De Croo
+Q1382799,Rik Daems,spouse,Q2020669,Sophie Pécriaux
+Q1471482,Frédéric Daerden,father,Q772642,Michel Daerden
+Q15127115,Egbert Lachaert,father,Q1933678,Patrick Lachaert
+Q1534851,Pieter De Crem,father,Q1923493,Jan De Crem
+Q155004,Philippe I of Belgium,child,Q1147467,Prince Emmanuel of Belgium
+Q155004,Philippe I of Belgium,child,Q1199838,Prince Gabriel of Belgium
+Q155004,Philippe I of Belgium,child,Q830697,"Princess Elisabeth, Duchess of Brabant"
+Q155004,Philippe I of Belgium,child,Q935320,Princess Éléonore of Belgium
+Q155004,Philippe I of Belgium,father,Q3911,Albert II of Belgium
+Q155004,Philippe I of Belgium,godparent,Q12973,Leopold III of Belgium
+Q155004,Philippe I of Belgium,godparent,Q2796565,Luisa Gazelli dei conti di Rossana
+Q155004,Philippe I of Belgium,mother,Q31129,Queen Paola of Belgium
+Q155004,Philippe I of Belgium,sibling,Q170194,"Princess Astrid of Belgium, Archduchess of Austria-Este"
+Q155004,Philippe I of Belgium,sibling,Q432537,Princess Delphine of Belgium
+Q155004,Philippe I of Belgium,sibling,Q700152,Prince Laurent of Belgium
+Q155004,Philippe I of Belgium,spouse,Q94334,Queen Mathilde of Belgium
+Q15993,Bart Somers,father,Q2034973,Joos Somers
+Q1663490,Alain Mathot,father,Q1557552,Guy Mathot
+Q1684787,Jean-Claude Van Cauwenberghe,father,Q1900804,André Van Cauwenberghe
+Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
+Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
+Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
+Q17497048,Hélène Ryckmans,father,Q17834839,André Ryckmans
+Q17497048,Hélène Ryckmans,mother,Q17835099,Geneviève Ryckmans-Corin
+Q17497092,Julien Uyttendaele,father,Q691421,Marc Uyttendaele
+Q18336548,Sander Loones,father,Q784199,Jan Loones
+Q18434995,Sophie Wilmès,spouse,Q21229900,Chris Stone
+Q19334606,Jan Smets,relative,Q15875350,Frank Smets
+Q1939878,Mathias De Clercq,father,Q28361623,Yannick De Clercq
+Q2020669,Sophie Pécriaux,spouse,Q1382799,Rik Daems
+Q2042411,Hervé Hasquin,father,Q24084960,René-Pierre Hasquin
+Q2042411,Hervé Hasquin,spouse,Q3311625,Michèle Nahum
+Q2052744,Willem-Frederik Schiltz,father,Q716589,Hugo Schiltz
+Q2067763,Steven Vanackere,father,Q2749349,Leo Vanackere
+Q212717,"Melchior Wathelet, Jr.",father,Q369909,Melchior Wathelet
+Q2187430,Guy Lutgen,child,Q704126,Benoît Lutgen
+Q2195593,Goedele Liekens,spouse,Q25160522,Chris Cockmartin
+Q2249806,Ilse Uyttersprot,father,Q42403397,Raymond Uyttersprot
+Q2399955,Lodewijk De Witte,sibling,Q2987524,Jozef De Witte
+Q2415346,Peter Vanvelthoven,father,Q2788396,Louis Vanvelthoven
+Q2532599,Filip Anthuenis,father,Q2361248,Georges Anthuenis
+Q2744376,Kurt De Loor,father,Q15876265,Herman De Loor
+Q2746986,Bert Anciaux,father,Q2342905,Vic Anciaux
+Q2746986,Bert Anciaux,sibling,Q4404246,Koen Anciaux
+Q27826608,Vincent Van Peteghem,father,Q1914810,Martin Van Peteghem
+Q2784190,Rob Van de Velde,spouse,Q22691670,Evi Van der Planken
+Q2800268,Maggie De Block,sibling,Q57458166,Eddie De Block
+Q2965912,Christine Defraigne,father,Q466246,Jean Defraigne
+Q2966163,Christophe Collignon,father,Q745254,Robert Collignon
+Q2978419,Claudia Niessen,father,Q2185811,Hans Niessen
+Q3022653,Denis Ducarme,father,Q964403,Daniel Ducarme
+Q3102773,Georges Gilkinet,relative,Q3311618,Michèle Gilkinet
+Q3140213,Peter Van Rompuy,father,Q12983,Herman Van Rompuy
+Q3186126,Josy Dubié,sibling,Q3164935,Jean-Claude Defossé
+Q3351190,Olivier Maroy,spouse,Q3564269,Véronique Barbier
+Q336599,Bart De Wever,sibling,Q13445806,Bruno De Wever
+Q3379592,Philippe Close,relative,Q2535449,Philippe Mahoux
+Q3385121,Pierre Galand,sibling,Q3371268,Paul Galand
+Q3479580,Serge de Patoul,child,Q64686783,Jonathan de Patoul
+Q349675,Jacques Simonet,father,Q1606032,Henri Simonet
+Q3527372,Thérèse Snoy,father,Q3164697,Jean Charles Snoy et d'Oppuers
+Q3527372,Thérèse Snoy,sibling,Q15873049,Bernard Snoy
+Q381218,Karel De Gucht,child,Q2363798,Jean-Jacques De Gucht
+Q3911,Albert II of Belgium,child,Q155004,Philippe I of Belgium
+Q3911,Albert II of Belgium,child,Q170194,"Princess Astrid of Belgium, Archduchess of Austria-Este"
+Q3911,Albert II of Belgium,child,Q432537,Princess Delphine of Belgium
+Q3911,Albert II of Belgium,child,Q700152,Prince Laurent of Belgium
+Q3911,Albert II of Belgium,father,Q12973,Leopold III of Belgium
+Q3911,Albert II of Belgium,mother,Q230238,Astrid of Sweden
+Q3911,Albert II of Belgium,partner,Q274797,Baroness Sybille de Selys-Longchamps
+Q3911,Albert II of Belgium,sibling,Q12976,Baudouin I of Belgium
+Q3911,Albert II of Belgium,sibling,Q160984,Princess Joséphine-Charlotte of Belgium
+Q3911,Albert II of Belgium,sibling,Q2525208,Prince Alexandre of Belgium
+Q3911,Albert II of Belgium,sibling,Q3150926,Ingeborg Verdun
+Q3911,Albert II of Belgium,sibling,Q371203,Princess Marie-Esméralda of Belgium
+Q3911,Albert II of Belgium,sibling,Q642899,Princess Marie-Christine of Belgium
+Q3911,Albert II of Belgium,spouse,Q31129,Queen Paola of Belgium
+Q4343491,Jan Briers,father,Q3419074,Jan Briers
+Q448224,Laurette Onkelinx,father,Q3098799,Gaston Onkelinx
+Q448224,Laurette Onkelinx,sibling,Q2830141,Alain Onkelinx
+Q448224,Laurette Onkelinx,spouse,Q691421,Marc Uyttendaele
+Q451040,Eric Van Rompuy,father,Q59544808,Vic Van Rompuy
+Q451040,Eric Van Rompuy,sibling,Q1266784,Tine Van Rompuy
+Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
+Q451040,Eric Van Rompuy,sibling,Q62090714,Anita Van Rompuy
+Q469352,Louis Michel,child,Q2218957,Mathieu Michel
+Q469352,Louis Michel,child,Q950958,Charles Michel
+Q476596,Alexander De Croo,father,Q1351926,Herman De Croo
+Q5109850,Christian Leysen,father,Q2411177,André Leysen
+Q5109850,Christian Leysen,sibling,Q3525355,Thomas Leysen
+Q57078071,Sarah Schlitz,relative,Q2220634,Henri Schlitz
+Q64210693,Jos D'Haese,father,Q67083896,Lebuïn D’Haese
+Q64210693,Jos D'Haese,mother,Q2604859,Mie Branders
+Q64222331,Dieter Van Besien,sibling,Q1810966,Wouter Van Besien
+Q64667390,Thierry Witsel,child,Q151838,Axel Witsel
+Q64686783,Jonathan de Patoul,father,Q3479580,Serge de Patoul
+Q64686920,Sofie Merckx,father,Q2172830,Kris Merckx
+Q67656421,Laurent Léonard,father,Q3167740,Jean-Marie Léonard
+Q67656469,Nicolas Janssen,father,Q5217673,Daniel Janssen
+Q677342,Armand De Decker,father,Q3264786,Luc De Decker
+Q678494,Olivier Maingain,child,Q17350755,Fabian Maingain
+Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
+Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
+Q781578,Lieve Maes,father,Q1807181,Bob Maes
+Q928374,Louis Tobback,child,Q960356,Bruno Tobback
+Q950958,Charles Michel,father,Q469352,Louis Michel
+Q950958,Charles Michel,partner,Q30058638,Amélie Derbaudrenghien
+Q950958,Charles Michel,sibling,Q2218957,Mathieu Michel
+Q964403,Daniel Ducarme,child,Q3022653,Denis Ducarme
