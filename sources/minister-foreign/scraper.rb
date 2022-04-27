@@ -21,6 +21,10 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no img name _ _ start end].freeze
     end
+
+    def raw_end
+      super.gsub('heden', 'Incumbent')
+    end
   end
 end
 
