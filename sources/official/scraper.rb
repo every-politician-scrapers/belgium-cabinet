@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      nodes.last.split(/(?:and (?=Minister)|&)/).map(&:tidy)
+      nodes.last.sub('Prime Minister, in charge of', 'Prime Minister and Minister of').split(/(?:and (?=Minister)|&)/).map(&:tidy)
     end
 
     private
