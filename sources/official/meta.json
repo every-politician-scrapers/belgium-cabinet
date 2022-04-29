@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Belgium",
+      "id": "Q31"
+    },
+    "cabinet": {
+      "id": "Q99749625",
+      "start": "2020-10-01",
+      "parent": "Q19601543"
+    },
+    "source": {
+        "url":   "https://www.belgium.be/en/about_belgium/government/federal_authorities/federal_government/composition_government",
+        "title": "Composition of the Belgian federal government | Belgium.be",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/belgium-cabinet"
+}
