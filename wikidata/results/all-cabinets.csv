@@ -1,7 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q104612408,Q104612408,,,,,,,,,,,,,,,,
 ,Q104612433,Q104612433,,,,,,,,,,,,,,,,
-,Q104612458,Q104612458,,,,,,,,,,,,,,,,
 ,Q727348,Provisional Government of Belgium,1830-09-24,11,,,1831-02-24,11,,,,,Q2409844,Government Gerlache-Goblet d'Alviella,,,,
 ,Q2409844,Government Gerlache-Goblet d'Alviella,1831-02-26,11,,,1831-03-23,11,,,Q727348,Provisional Government of Belgium,Q3112223,Government Lebeau I,,,,
 ,Q3112223,Government Lebeau I,1831-03-23,11,,,1831-07-21,11,,,Q2409844,Government Gerlache-Goblet d'Alviella,Q2182073,de Mûelenaere government,,,,
