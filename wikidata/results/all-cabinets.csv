@@ -1,6 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q104612408,Q104612408,,,,,,,,,,,,,,,,
-,Q104612433,Q104612433,,,,,,,,,,,,,,,,
 ,Q727348,Provisional Government of Belgium,1830-09-24,11,,,1831-02-24,11,,,,,Q2409844,Government Gerlache-Goblet d'Alviella,,,,
 ,Q2409844,Government Gerlache-Goblet d'Alviella,1831-02-26,11,,,1831-03-23,11,,,Q727348,Provisional Government of Belgium,Q3112223,Government Lebeau I,,,,
 ,Q3112223,Government Lebeau I,1831-03-23,11,,,1831-07-21,11,,,Q2409844,Government Gerlache-Goblet d'Alviella,Q2182073,de Mûelenaere government,,,,
@@ -41,7 +39,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3112399,Poullet government,1925-06-17,11,,,1926-05-20,11,,,Q2208732,Vande Vyvere government,,,,,,
 ,Q2009450,Jaspar I government,1926-05-20,11,,,1927-11-21,11,,,,,,,,,,
 ,Q3112154,Jaspar II government,1927-11-22,11,,,1931-06-06,11,,,,,,,,,,
+,Q104612408,Q104612408,1929-12-04,11,,,1931-06-06,11,,,,,,,,,,
 ,Q2856552,Renkin government,1931-06-15,11,,,1932-10-18,11,,,,,Q1862530,de Broqueville III government,,,,
+,Q104612433,Q104612433,1932-05-23,11,,,1932-10-22,11,,,,,,,,,,
 ,Q1862530,de Broqueville III government,1932-10-22,11,,,1932-12-17,11,,,Q2856552,Renkin government,Q99663572,De Broqueville IV government,,,,
 ,Q99663572,De Broqueville IV government,1932-12-17,11,,,1934-06-12,11,,,Q1862530,de Broqueville III government,Q99663596,De Broqueville V government,,,,
 ,Q99663596,De Broqueville V government,1934-06-12,11,,,1934-11-20,11,,,Q99663572,De Broqueville IV government,Q99726504,Theunis IV government,,,,
@@ -106,4 +106,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q59582476,Michel II Government,2018-12-09,11,,,2019-10-27,11,,,Q18196354,Michel I Government,Q72586989,Wilmès I Government,,,,
 ,Q72586989,Wilmès I Government,2019-10-27,11,,,2020-03-17,11,,,Q59582476,Michel II Government,Q87810430,Wilmès II Government,,,,
 ,Q87810430,Wilmès II Government,2020-03-17,11,,,2020-10-01,11,,,Q72586989,Wilmès I Government,Q99749625,De Croo government,,,,
-,Q99749625,De Croo government,2020-10-01,11,,,,,,,Q87810430,Wilmès II Government,,,,,,
+98,Q99749625,De Croo government,2020-10-01,11,,,,,,,Q87810430,Wilmès II Government,,,,,,
