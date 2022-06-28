@@ -41,6 +41,9 @@ Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,Princess 
 Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
 Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Q17350697,Pierre Kompany,child,Q201381,Vincent Kompany
+Q17350697,Pierre Kompany,child,Q2995528,François Kompany
+Q17350697,Pierre Kompany,child,Q65099847,Christel
 Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
 Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
@@ -117,9 +120,12 @@ Q5109850,Christian Leysen,father,Q2411177,André Leysen
 Q5109850,Christian Leysen,sibling,Q3525355,Thomas Leysen
 Q57078071,Sarah Schlitz,relative,Q2220634,Henri Schlitz
 Q586083,Antoine Duquesne,spouse,Q1861021,Anne-Marie Duquesne-Bourguignont
+Q64160557,Ariane de Lobkowicz-d'Ursel,father,Q3502142,Stéphane de Lobkowicz
+Q64160557,Ariane de Lobkowicz-d'Ursel,mother,Q17350983,Barbara d'Ursel de Lobkowicz
 Q64210693,Jos D'Haese,father,Q67083896,Lebuïn D’Haese
 Q64210693,Jos D'Haese,mother,Q2604859,Mie Branders
 Q64222331,Dieter Van Besien,sibling,Q1810966,Wouter Van Besien
+Q64234393,Alexia Bertrand,father,Q6695730,Luc Bertrand
 Q64667390,Thierry Witsel,child,Q151838,Axel Witsel
 Q64686783,Jonathan de Patoul,father,Q3479580,Serge de Patoul
 Q64686920,Sofie Merckx,father,Q2172830,Kris Merckx
@@ -137,6 +143,7 @@ Q700152,Prince Laurent of Belgium,sibling,Q170194,"Princess Astrid, Archduchess 
 Q700152,Prince Laurent of Belgium,sibling,Q432537,Princess Delphine of Belgium
 Q700152,Prince Laurent of Belgium,spouse,Q272191,Princess Claire of Belgium
 Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
+Q728900,Roland Duchâtelet,spouse,Q24255487,Marieke Höfte
 Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
 Q781578,Lieve Maes,father,Q1807181,Bob Maes
