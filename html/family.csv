@@ -46,7 +46,6 @@ Q17350697,Pierre Kompany,child,Q2995528,François Kompany
 Q17350697,Pierre Kompany,child,Q65099847,Christel
 Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
-Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
 Q17497048,Hélène Ryckmans,father,Q17834839,André Ryckmans
 Q17497048,Hélène Ryckmans,mother,Q17835099,Geneviève Ryckmans-Corin
 Q17497092,Julien Uyttendaele,father,Q691421,Marc Uyttendaele
@@ -113,6 +112,8 @@ Q451040,Eric Van Rompuy,father,Q59544808,Vic Van Rompuy
 Q451040,Eric Van Rompuy,sibling,Q1266784,Tine Van Rompuy
 Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
 Q451040,Eric Van Rompuy,sibling,Q62090714,Anita Van Rompuy
+Q458095,Miet Smet,father,Q1917034,Albert Smet
+Q458095,Miet Smet,spouse,Q313809,Wilfried Martens
 Q469352,Louis Michel,child,Q2218957,Mathieu Michel
 Q469352,Louis Michel,child,Q950958,Charles Michel
 Q476596,Alexander De Croo,father,Q1351926,Herman De Croo
@@ -151,4 +152,5 @@ Q928374,Louis Tobback,child,Q960356,Bruno Tobback
 Q950958,Charles Michel,father,Q469352,Louis Michel
 Q950958,Charles Michel,partner,Q30058638,Amélie Derbaudrenghien
 Q950958,Charles Michel,sibling,Q2218957,Mathieu Michel
+Q960356,Bruno Tobback,father,Q928374,Louis Tobback
 Q964403,Daniel Ducarme,child,Q3022653,Denis Ducarme
