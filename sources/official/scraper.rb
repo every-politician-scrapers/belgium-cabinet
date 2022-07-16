@@ -14,6 +14,10 @@ class MemberList
       nodes.last.sub('Prime Minister, in charge of', 'Prime Minister and Minister of').split(/(?:and (?=Minister)|&)/).map(&:tidy)
     end
 
+    def empty?
+      nodes.empty?
+    end
+
     private
 
     def nodes
@@ -22,6 +26,10 @@ class MemberList
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def members
       super.reject { |mem| mem[:position].start_with? 'State Secretary' } # TODO: include these later
     end
