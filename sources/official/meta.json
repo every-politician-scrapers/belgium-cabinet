@@ -8,13 +8,16 @@
       "start": "2020-10-01",
       "parent": "Q19601543"
     },
-    "source": {
-        "url":   "https://www.belgium.be/en/about_belgium/government/federal_authorities/federal_government/composition_government",
-        "title": "Composition of the Belgian federal government | Belgium.be",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.belgium.be/en/about_belgium/government/federal_authorities/federal_government/composition_government",
+        "P1476": {
+            "text": "Composition of the Belgian federal government | Belgium.be",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/belgium-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Belgium"
+    }
 }
