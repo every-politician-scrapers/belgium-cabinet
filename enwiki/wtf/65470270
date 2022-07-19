@@ -1,0 +1,292 @@
+{
+  "title": "Pierre-Yves Dermagne",
+  "pageID": 65470270,
+  "categories": [
+    "Living people",
+    "1980 births",
+    "Place of birth missing (living people)",
+    "Government ministers of Belgium",
+    "Parti Socialiste (Belgium) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pierre-Yves Dermagne (born 30 December 1980) is a Belgian politician.",
+              "formatting": {
+                "bold": [
+                  "Pierre-Yves Dermagne"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Economy and Employment in the De Croo Government led by Prime Minister Alexander De Croo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "De Croo Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander De Croo"
+                }
+              ]
+            },
+            {
+              "text": "He is affiliated with the Socialist Party (Parti Socialiste).",
+              "links": [
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Parti Socialiste (Belgium)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Parti Socialiste"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belgian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1980",
+          "month": "12",
+          "day": "30",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "10",
+            "1"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pierre-Yves Dermagne"
+          },
+          "image": {
+            "text": "Visit of Ursula von der Leyen, President of the European Commission, to Rochefort and Pepinster in Belgium 21.jpg"
+          },
+          "caption": {
+            "text": "Dermagne guiding Ursula von der Leyen around in Rochefort (July 2021)"
+          },
+          "office": {
+            "text": "Minister of Economy and Employment"
+          },
+          "primeminister": {
+            "text": "Alexander De Croo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander De Croo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 October 2020"
+          },
+          "predecessor": {
+            "text": "Nathalie Muylle"
+          },
+          "office1": {
+            "text": "Walloon Minister of Local Government and Housing",
+            "links": [
+              {
+                "text": "Walloon",
+                "type": "internal",
+                "page": "Walloon Government"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 september 2019"
+          },
+          "term_end1": {
+            "text": "1 October 2020"
+          },
+          "predecessor1": {
+            "text": "Valérie De Bue"
+          },
+          "successor1": {
+            "text": "Christophe Collignon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christophe Collignon"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Walloon Minister of Local Government and Housing",
+            "links": [
+              {
+                "text": "Walloon",
+                "type": "internal",
+                "page": "Walloon Government"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 January 2017"
+          },
+          "term_end2": {
+            "text": "28 July 2017"
+          },
+          "predecessor2": {
+            "text": "Paul Furlan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Furlan"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Valérie De Bue"
+          },
+          "office3": {
+            "text": "Mayor of Rochefort",
+            "links": [
+              {
+                "text": "Rochefort",
+                "type": "internal",
+                "page": "Rochefort, Belgium"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 december 2018"
+          },
+          "predecessor3": {
+            "text": "François Bellot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "François Bellot"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party (Francophone)",
+            "links": [
+              {
+                "text": "Socialist Party (Francophone)",
+                "type": "internal",
+                "page": "Parti Socialiste (Belgium)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Namur, Belgium",
+            "links": [
+              {
+                "text": "Namur",
+                "type": "internal",
+                "page": "Namur (city)"
+              },
+              {
+                "type": "internal",
+                "page": "Belgium"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 30, 1980"
+          },
+          "alma_mater": {
+            "text": "Université catholique de Louvain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université catholique de Louvain"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Pierre-Yves Dermagne",
+          "url": "https://www.pfwb.be/les-deputes/pierre-yves-dermagne",
+          "url-status": "live",
+          "access-date": "1 October 2020",
+          "website": "Parlement de la Fédération Wallonie-Bruxelles",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "30 September 2020",
+          "title": "Le casting du gouvernement De Croo",
+          "url": "https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063003/https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "L'Echo",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Neirynck",
+          "first": "Pieterjan",
+          "date": "1 October 2020",
+          "title": "Comeback Vandenbroucke, geen Calvo of De Block: dit zijn de gezichten van de nieuwe federale regering",
+          "url": "https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063543/https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "Business AM",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "1 October 2020",
+          "title": "Who is in Belgium’s new federal government?",
+          "work": "The Brussels Times",
+          "url": "https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "url-status": "live",
+          "access-date": "1 October 2020",
+          "archive-url": "https://web.archive.org/web/20201001110756/https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "archive-date": "1 October 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "belgium-politician-stub"
+        }
+      ]
+    }
+  ]
+}

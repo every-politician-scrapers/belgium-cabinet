@@ -1,0 +1,1509 @@
+{
+  "title": "Bart De Wever",
+  "pageID": 14143193,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Belgian columnists",
+    "21st-century Belgian historians",
+    "Flemish politicians",
+    "KU Leuven alumni",
+    "Mayors of Antwerp, Belgium",
+    "Members of the Flemish Parliament",
+    "MEPs for Belgium 2009–2014",
+    "New Flemish Alliance MEPs",
+    "New Flemish Alliance politicians",
+    "People from Mortsel",
+    "People's Union (Belgium) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bart Albert Liliane De Wever ( born 21 December 1970) is a Belgian politician.",
+              "links": [
+                {
+                  "text": "Belgian",
+                  "type": "internal",
+                  "page": "Belgium"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bart Albert Liliane De Wever"
+                ]
+              }
+            },
+            {
+              "text": "Since 2004 De Wever has been the leader of the New Flemish Alliance (N-VA), a political party advocating for the independence of Flanders.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Flemish Alliance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Flanders"
+                }
+              ]
+            },
+            {
+              "text": "He is also a member of the Chamber of Representatives.",
+              "links": [
+                {
+                  "text": "Chamber of Representatives",
+                  "type": "internal",
+                  "page": "Chamber of Representatives (Belgium)"
+                }
+              ]
+            },
+            {
+              "text": "De Wever played a prominent role in the 2007 Belgian government formation and presided over his party's victory in the 2010 federal elections when N-VA became the largest party in both Flanders and in Belgium as a whole.",
+              "links": [
+                {
+                  "text": "2007 Belgian government formation",
+                  "type": "internal",
+                  "page": "2007 Belgian government formation"
+                },
+                {
+                  "text": "2010 federal elections",
+                  "type": "internal",
+                  "page": "2010 Belgian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since January 2013 he has been Mayor of Antwerp, following the 2012 municipal elections.",
+              "links": [
+                {
+                  "text": "Mayor of Antwerp",
+                  "type": "internal",
+                  "page": "List of mayors of Antwerp"
+                },
+                {
+                  "text": "2012 municipal elections",
+                  "type": "internal",
+                  "page": "2012 Belgian local elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Bart_De_Wever.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bart_De_Wever.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bart_De_Wever.JPG",
+          "caption": "Bart De Wever in 2004",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belgian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "August 2013",
+          "template": "blp sources"
+        },
+        {
+          "reason": "Article reads like a list of figures/appointments/dates and not like a narrative. It is excessively detailed about some points and very vague about others.",
+          "date": "August 2013",
+          "template": "cleanup"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "list": [
+            "De Wever",
+            "Wever"
+          ],
+          "lang": "Dutch",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1970",
+          "month": "12",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ˈbɑrt də ˈʋeːvər",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bart De Wever"
+          },
+          "image": {
+            "text": "BartDeWever.jpg"
+          },
+          "office": {
+            "text": "Mayor of Antwerp",
+            "links": [
+              {
+                "text": "Mayor of Antwerp",
+                "type": "internal",
+                "page": "List of mayors of Antwerp"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2013"
+          },
+          "predecessor": {
+            "text": "Patrick Janssens",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Janssens"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Leader of the New Flemish Alliance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Flemish Alliance"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2004",
+            "number": 2004
+          },
+          "predecessor1": {
+            "text": "Geert Bourgeois",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geert Bourgeois"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Chamber of Representatives",
+            "links": [
+              {
+                "text": "Chamber of Representatives",
+                "type": "internal",
+                "page": "Chamber of Representatives (Belgium)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "19 June 2014"
+          },
+          "term_start3": {
+            "text": "28 June 2010"
+          },
+          "term_end3": {
+            "text": "7 May 2014"
+          },
+          "office4": {
+            "text": "Member of the Antwerp City Council",
+            "links": [
+              {
+                "text": "Antwerp City Council",
+                "type": "internal",
+                "page": "Antwerp",
+                "anchor": "City council"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "office5": {
+            "text": "Member of the Flemish Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Flemish Parliament"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "7 June 2009"
+          },
+          "term_end5": {
+            "text": "24 May 2014"
+          },
+          "term_start6": {
+            "text": "13 June 2004"
+          },
+          "term_end6": {
+            "text": "27 June 2007"
+          },
+          "office7": {
+            "text": "Senator for the Flemish Community",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Belgian senate"
+              },
+              {
+                "type": "internal",
+                "page": "Flemish Community"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "13 July 2010"
+          },
+          "term_end7": {
+            "text": "1 January 2013"
+          },
+          "office8": {
+            "text": "Member of the Berchem District Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berchem"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "1996",
+            "number": 1996
+          },
+          "term_end8": {
+            "text": "1997",
+            "number": 1997
+          },
+          "birthname": {
+            "text": "Bart Albert Liliane De Wever"
+          },
+          "birth_date": {
+            "text": "December 21, 1970"
+          },
+          "birth_place": {
+            "text": "Mortsel, Belgium",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mortsel"
+              },
+              {
+                "type": "internal",
+                "page": "Belgium"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Union (Before 2001)\nNew Flemish Alliance\n(2001–present)",
+            "links": [
+              {
+                "text": "People's Union",
+                "type": "internal",
+                "page": "People's Union (Belgium)"
+              },
+              {
+                "type": "internal",
+                "page": "New Flemish Alliance"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Veerle Hegge"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Deurne, Belgium",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deurne, Belgium"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Catholic University of Leuven",
+            "links": [
+              {
+                "text": "Catholic University of Leuven",
+                "type": "internal",
+                "page": "Katholieke Universiteit Leuven"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01200&lactivity=54",
+          "title": "Bart De Wever",
+          "website": "www.dekamer.be",
+          "access-date": "10 April 2019",
+          "language": "Dutch",
+          "archive-url": "https://web.archive.org/web/20181209165323/https://www.dekamer.be/kvvcr/showpage.cfm?section=%2Fdepute&language=nl&cfm=cvview54.cfm%3Fkey%3D01200&lactivity=54",
+          "archive-date": "9 December 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2796",
+          "title": "Bart De Wever",
+          "website": "www.vlaamsparlement.be",
+          "access-date": "10 April 2019",
+          "language": "Dutch",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://senat.be/www/?MIval=/index_senate&MENUID=14120&LANG=nl",
+          "title": "Samenstelling van de Senaat (Legislatuur 2010-2014)",
+          "website": "www.senat.be",
+          "access-date": "10 April 2019",
+          "language": "Dutch",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "De Wever was born in Mortsel and grew up in Kontich where his parents ran a small supermarket.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mortsel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kontich"
+                }
+              ]
+            },
+            {
+              "text": "His father was an activist for the Volksunie.",
+              "links": [
+                {
+                  "text": "Volksunie",
+                  "type": "internal",
+                  "page": "People's Union (Belgium)"
+                }
+              ]
+            },
+            {
+              "text": "De Wever's older brother is historian and professor Bruno de Wever."
+            },
+            {
+              "text": "His grandfather had been the secretary of the Flemish National Union, a Flemish far-right party from the interwar period that had been recognised as the ruling party of Flanders during the Nazi occupation of Belgium.",
+              "links": [
+                {
+                  "text": "Flemish National Union",
+                  "type": "internal",
+                  "page": "Vlaams Nationaal Verbond"
+                }
+              ]
+            },
+            {
+              "text": "However, during an interview, Bart De Wever nuanced his grandfather's past by claiming he had not collaborated with the Nazis."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Wever began studying a law degree at the University of Antwerp but dropped out before switching to Saint Ignatius University Centre, Antwerp and then the Catholic University of Leuven (KUL), graduating with a licentiate (equivalent of the master's degree) followed by a PhD in History.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Antwerp"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Ignatius University Centre, Antwerp"
+                },
+                {
+                  "text": "Catholic University of Leuven",
+                  "type": "internal",
+                  "page": "Katholieke Universiteit Leuven"
+                },
+                {
+                  "text": "licentiate",
+                  "type": "internal",
+                  "page": "Licentiate (degree)"
+                },
+                {
+                  "text": "master's degree",
+                  "type": "internal",
+                  "page": "Master of Arts"
+                }
+              ]
+            },
+            {
+              "text": "As a student he was a member of the Liberaal Vlaams Studentenverbond (LVSV, Liberal Flemish Students' Union), the Katholiek Vlaams Hoogstudentenverbond (KVHV, Catholic Flemish Students' Union) of Antwerp and Leuven.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LVSV"
+                },
+                {
+                  "type": "internal",
+                  "page": "Katholiek Vlaams Hoogstudentenverbond"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leuven"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Liberaal Vlaams Studentenverbond",
+                  "Katholiek Vlaams Hoogstudentenverbond"
+                ]
+              }
+            },
+            {
+              "text": "He is a former editor-in-chief of the KVHV newspapers Tegenstroom (magazine of KVHV in Antwerp) and Ons Leven (in Leuven).",
+              "formatting": {
+                "italic": [
+                  "Tegenstroom",
+                  "Ons Leven"
+                ]
+              }
+            },
+            {
+              "text": "After graduating, he was employed as a research assistant working on the Nieuwe Encyclopedie van de Vlaamse Beweging (New Encyclopedia of the Flemish Movement).",
+              "formatting": {
+                "italic": [
+                  "Nieuwe Encyclopedie van de Vlaamse Beweging"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Wever is married to a Dutch woman with whom he has four children."
+            },
+            {
+              "text": "They live together in Deurne.",
+              "links": [
+                {
+                  "text": "Deurne",
+                  "type": "internal",
+                  "page": "Deurne, Belgium"
+                }
+              ]
+            },
+            {
+              "text": "In 2012, De Wever undertook a crash diet and lost 60 kilos."
+            },
+            {
+              "text": "His physical transformation was noted by the Belgian media and he subsequently published a book advising on weight loss."
+            },
+            {
+              "text": "De Wever has cited marathon running as his main interest outside of politics."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Bruno de Wever",
+          "lan1": "nl",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.apache.be/2013/05/14/de-politieke-roots-van-bart-de-wever/?sh=1de89592206b2d0e67553-1662601330",
+          "title": "De politieke roots van Bart De Wever",
+          "access-date": "16 February 2020",
+          "language": "nl-NL",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bart De Wever en zijn vrouw Veerle ook voor kerk getrouwd",
+          "url": "https://www.gva.be/cnt/aid847044",
+          "work": "Gazet van Antwerpen",
+          "access-date": "2021-07-24",
+          "language": "nl-BE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.expatica.com/be/uncategorized/separatist-loses-60-kilos-but-weighs-on-belgiums-future-62081/",
+          "title": "My Favorite Things, Part II",
+          "access-date": "2022-05-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bart De Wever verwelkomt Mark Rutte in Antwerpen",
+          "url": "https://www.youtube.com/watch?v=KiJcFRywWik",
+          "author": "N-VA",
+          "date": "25 June 2021",
+          "access-date": "24 July 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "De Wever initially started his political career as a member of the Volksunie (People's Union) party which his parents had belonged to.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Volksunie"
+                }
+              ]
+            },
+            {
+              "text": "During the ideological splits in the Volksunie, De Wever became part of the so-called Oranjehofgroep along with Frieda Brepoels, Eric Defoort, Ben Weyts and Geert Bourgeois.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frieda Brepoels"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eric Defoort"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ben Weyts"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geert Bourgeois"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Oranjehofgroep"
+                ]
+              }
+            },
+            {
+              "text": "The Oranjehofgroup was a political clique within the Volksunie composed of right-wing, conservative-liberal and Flemish nationalist members who opposed the left-orientated direction the party was being taken under Bert Anciaux.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bert Anciaux"
+                }
+              ]
+            },
+            {
+              "text": "The members of the Oranjehofgroep would later found the N-VA together."
+            },
+            {
+              "text": "In 2004, he was elected as party leader of the N-VA with 95% of the votes, being the only candidate up for election."
+            },
+            {
+              "text": "Initially, the N-VA had followed the political style of the People's Union by characterizing itself as a big tent party, however under De Wever's leadership the N-VA took on a conservative identity and has seen a rise in support since.",
+              "links": [
+                {
+                  "text": "big tent",
+                  "type": "internal",
+                  "page": "big tent"
+                },
+                {
+                  "text": "conservative",
+                  "type": "internal",
+                  "page": "conservative"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Wever went through a rough stretch in 2006 when he accepted the conservative-liberal Jean-Marie Dedecker as an N-VA member, causing a split with the CD&V party.",
+              "links": [
+                {
+                  "text": "conservative-liberal",
+                  "type": "internal",
+                  "page": "Conservative liberalism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean-Marie Dedecker"
+                },
+                {
+                  "text": "CD&V party",
+                  "type": "internal",
+                  "page": "Christian Democratic and Flemish"
+                }
+              ]
+            },
+            {
+              "text": "In order to reconcile the party, Dedecker had to leave."
+            },
+            {
+              "text": "Although he was extensively criticised, the local N-VA leaders permitted De Wever to remain as N-VA president."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2009 regional elections, his party won an unexpectedly high 13% of the votes, making N-VA the overall winner of the elections together with old cartel partner CD&V.",
+              "links": [
+                {
+                  "text": "2009 regional elections",
+                  "type": "internal",
+                  "page": "2009 Belgian regional elections"
+                }
+              ]
+            },
+            {
+              "text": "N-VA subsequently joined the government, with De Wever choosing to remain party president and appointing two other party members as ministers in the Flemish Government and one party member as speaker of the Flemish Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Flemish Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Flemish Parliament"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under his presidency his party gained around 30% of the votes in Flanders during federal elections held on 13 June 2010.",
+              "links": [
+                {
+                  "text": "federal elections",
+                  "type": "internal",
+                  "page": "2010 Belgian federal election"
+                }
+              ]
+            },
+            {
+              "text": "De Wever himself won the most preference votes of the Dutch-speaking region (nearly 800,000).",
+              "links": [
+                {
+                  "text": "preference votes",
+                  "type": "internal",
+                  "page": "preference votes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Wever visited former British Prime Minister David Cameron at 10 Downing Street on a number of occasions and maintained contact with Boris Johnson during his time as Mayor of London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                },
+                {
+                  "text": "10 Downing Street",
+                  "type": "internal",
+                  "page": "10 Downing Street"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayor of London"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is an avowed admirer of Edmund Burke and his political philosophy, and has described British conservative writer and social critic Theodore Dalrymple and former Prime Minister Margaret Thatcher as influences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Edmund Burke"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theodore Dalrymple"
+                },
+                {
+                  "type": "internal",
+                  "page": "Margaret Thatcher"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Wever has expressed criticism of the cordon sanitaire placed on the Vlaams Belang (VB) party (despite criticizing the VB in the past), describing it as undemocratic and counterproductive, and following the 2019 Belgian federal election stated that he was considering breaking it to include the VB as a potential coalition partner.",
+              "links": [
+                {
+                  "text": "cordon sanitaire",
+                  "type": "internal",
+                  "page": "Cordon sanitaire (politics)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vlaams Belang"
+                },
+                {
+                  "text": "2019 Belgian federal election",
+                  "type": "internal",
+                  "page": "2019 Belgian federal election"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "cordon sanitaire"
+                ]
+              }
+            },
+            {
+              "text": "Although De Wever and the N-VA held official talks with the VB, they ultimately did not form an agreement."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the 2019 federal election, De Wever has shown interest to make a new political centre-right movement."
+            },
+            {
+              "text": "His goal is to reduce the number of political parties in parliament and go to a more American and British style parliament with fractions within larger parties (drawing on the Conservative and Labour and Republican Party and Democratic Party dualism in the UK and USA respectively).",
+              "links": [
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "Labour",
+                  "type": "internal",
+                  "page": "Labour Party (UK)"
+                },
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            },
+            {
+              "text": "De Wever has expressed his desire to attract CD&V, Open VLD and some Vlaams Belang voters."
+            },
+            {
+              "text": "Joachim Coens, leader of CD&V, supports the idea and argues it would make future government formations easier.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joachim Coens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2022, he said during a radio interview that Russian President Vladimir Putin will not end Russia’s invasion of Ukraine, as he is a \"psychopath\" and a \"madman\", adding: \"[Putin] said: ‘I will squash the Russians who are against me like mosquitoes’. When did I hear that before? I think here, 70 years ago.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "reason": "regional or national government?",
+          "date": "August 2013",
+          "template": "clarify"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.knack.be/nieuws/belgie/bart-de-wever-behaalde-785-776-voorkeurstemmen/article-normal-9037.html",
+          "title": "Bart De Wever behaalde 785.776 voorkeurstemmen",
+          "newspaper": "Knack",
+          "language": "Dutch",
+          "access-date": "4 August 2017",
+          "date": "14 June 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.nieuwsblad.be/cnt/dmf20100613_083",
+          "title": "De Wever ook koning van de voorkeurstemmen",
+          "newspaper": "Het Nieuwsblad",
+          "language": "Dutch",
+          "access-date": "4 August 2017",
+          "date": "13 June 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Auteur: llo",
+          "url": "http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20121018_00339401",
+          "title": "Bart De Wever praat met eerste minister David Cameron - Het Nieuwsblad",
+          "publisher": "Nieuwsblad.be",
+          "accessdate": "2014-07-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.deredactie.be/cm/vrtnieuws.english/News/1.984355",
+          "title": "De Wever has \"a good conversation\" with Cameron",
+          "publisher": "Deredactie.be",
+          "date": "2011-03-18",
+          "accessdate": "2014-07-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.digitaljournal.com/news/world/flemish-nationalists-tread-cautiously-on-scottish-independence-vote/article/403039",
+          "title": "Flemish nationalists tread cautiously on Scottish independence vote",
+          "date": "13 September 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.euractiv.com/section/eu-elections-2019/news/belgian-black-sunday-sees-far-right-surge-threatening-new-government-crisis/",
+          "title": "Belgium's 'Black Sunday' sees far-right surge, threatens new government crisis",
+          "work": "Euractive",
+          "date": "27 May 2019",
+          "access-date": "18 October 2019",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.brusselstimes.com/all-news/belgium-all-news/57328/belgiums-far-right-not-ruled-out-of-potential-coalition/",
+          "title": "Belgium's far-right not ruled out of potential coalition",
+          "work": "The Brussels Times",
+          "date": "27 May 2019",
+          "access-date": "18 October 2019",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "‘Putin is a psychopath’: War in Ukraine will not end soon, De Wever warns",
+          "url": "https://www.brusselstimes.com/211179/putin-is-a-psychopath-de-wever-warns-that-war-in-ukraine-will-not-end-soon",
+          "work": "The Brussels Times",
+          "date": "17 March 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "2010 Belgian Federal Election",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An early election was held on 13 June 2010, resulting in the N-VA winning most votes in the Dutch-speaking areas and the Socialist Party (PS) in French-speaking Belgium.",
+              "links": [
+                {
+                  "text": "early election",
+                  "type": "internal",
+                  "page": "2010 Belgian federal election"
+                },
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Parti Socialiste (Belgium)"
+                }
+              ]
+            },
+            {
+              "text": "Nationally the two parties were almost even with 27 seats for the N-VA and 26 for the PS, the remaining seats being split between ten other parties."
+            },
+            {
+              "text": "For 541 days after the elections, no agreement could be reached among the parties on a coalition to form a new government and during that period the country continued to be governed by an interim government."
+            },
+            {
+              "text": "On 6 December 2011 the Di Rupo I Government was sworn in.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Di Rupo I Government"
+                }
+              ]
+            },
+            {
+              "text": "De Wever and the N-VA were not included in the makeup of this government."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Regarding the 25 May 2014 federal election, PS party leader Elio Di Rupo noted that his party will be unwilling to enter into a dialogue with De Wever and the N-VA regarding forming a new federal government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elio Di Rupo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2007–11 Belgian political crisis"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.deredactie.be/cm/vrtnieuws.english/news/111206_oath",
+          "archive-url": "http://webarchive.loc.gov/all/20111207192549/http://www.deredactie.be/cm/vrtnieuws.english/news/111206_oath",
+          "url-status": "dead",
+          "archive-date": "7 December 2011",
+          "title": "New government sworn in at Laken Castle",
+          "publisher": "FlandersNews.be",
+          "date": "6 December 2011",
+          "accessdate": "6 December 2011",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Controversies",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1996, he was photographed attending a conference held by the French extreme-right Front National leader Jean-Marie Le Pen.",
+              "links": [
+                {
+                  "text": "Front National",
+                  "type": "internal",
+                  "page": "National Front (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean-Marie Le Pen"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Front National"
+                ]
+              }
+            },
+            {
+              "text": "De Wever justified his attendance by arguing that \"in a democracy everyone should have the right to express his opinion, even if it's an opinion I detest. And I always prefer to get my information first hand than to get it in a filtered way.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2007, in reaction to the apology of the Mayor of Antwerp for his city's collaboration in the deportation of Jews during World War II, Bart De Wever said that:",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World War II"
+                }
+              ]
+            },
+            {
+              "text": "He later issued an apology to representatives of Antwerp's Jewish community."
+            },
+            {
+              "text": "Following these events, in an op-ed published in Le Monde, the Belgian French-speaking writer Pierre Mertens claimed that Bart De Wever was a \"convinced negationist leader\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Le Monde"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pierre Mertens"
+                },
+                {
+                  "text": "negationist",
+                  "type": "internal",
+                  "page": "holocaust denial"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Le Monde"
+                ]
+              }
+            },
+            {
+              "text": "De Wever sued Mertens for this allegation."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2016, he called Angela Merkel personally responsible for the \"mess she, herself has created\" in relation to the 2016 terrorist attacks in Germany.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angela Merkel"
+                },
+                {
+                  "text": "2016 terrorist attacks in Germany",
+                  "type": "internal",
+                  "page": "Terrorism in Germany"
+                }
+              ]
+            },
+            {
+              "text": "On the radio channel Radio 1, he claimed that Angela Merkel should have led a European military coalition against ISIS/ISIL in 2015, that she was not a true leader, and insinuated that she could have partially prevented the attacks.",
+              "links": [
+                {
+                  "text": "Radio 1",
+                  "type": "internal",
+                  "page": "Radio 1 (Belgium)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Angela Merkel"
+                },
+                {
+                  "text": "ISIS/ISIL",
+                  "type": "internal",
+                  "page": "Islamic State of Iraq and the Levant"
+                }
+              ]
+            },
+            {
+              "text": "De Wever was criticized for this by the leader of the SP.A, John Crombez, who said to be ashamed for the claim that Merkel would be the cause of the \"great problems in Europe\".",
+              "links": [
+                {
+                  "text": "SP.A",
+                  "type": "internal",
+                  "page": "Socialistische Partij Anders"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Crombez"
+                }
+              ]
+            },
+            {
+              "text": "De Wever's remarks were also countered by other Belgian politicians, as well as by a Flemish journalist."
+            },
+            {
+              "text": "De Wever also claimed that Merkel has caused the rise of Donald Trump, Geert Wilders and Marine Le Pen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geert Wilders"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marine Le Pen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a 2019 interview with Flemish newspaper De Zondag, De Wever argued that mass migration was impacting on identity, enlightenment and integration, and that immigrants from Muslim backgrounds were more likely to force their beliefs in public over other religious groups, stating \"I have not yet seen an Orthodox Jew who wants a counter function in Antwerp. They avoid conflict. That is the difference. Muslims do claim a place in public space, in education, with their outward signs of faith. That creates tensions\" while arguing that he supports freedom of religion and worship.",
+              "formatting": {
+                "italic": [
+                  "De Zondag,"
+                ]
+              }
+            },
+            {
+              "text": "He also accused the left of cultural relativism, claiming \"The same left that set bras on fire in May '68 is now embracing the headscarf as a symbol of equality. I find that very strange. They wanted to destroy Christianity, but they accept everything about Islam. I call that submission.\"",
+              "links": [
+                {
+                  "text": "cultural relativism",
+                  "type": "internal",
+                  "page": "cultural relativism"
+                }
+              ]
+            },
+            {
+              "text": "De Wever's comments were criticised by Socialist Party politician Paul Magnette who called them \"a form of racism.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Magnette"
+                }
+              ]
+            },
+            {
+              "text": "Magnette's comments were in turn refuted by De Wever and N-VA minister Jan Jambon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jan Jambon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Herman_Van_Rompuy_at_the_Belgian_Chamber_of_Representatives_-_20081205.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Herman_Van_Rompuy_at_the_Belgian_Chamber_of_Representatives_-_20081205.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Herman_Van_Rompuy_at_the_Belgian_Chamber_of_Representatives_-_20081205.jpg",
+          "caption": "Former Prime Minister of Belgium Herman Van Rompuy in the Belgian Chamber of Representatives at the launch of Bart De Wever's book Het kostbare weefsel (\"the precious fabric [of society]\") in 2008.",
+          "links": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "\"Antwerp did not organise the deportation of the Jews, it was the victim of Nazi occupation ... Those who were in power at the time had to take tricky decisions in difficult times. I don't find it very courageous to stigmatise them now.\"",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antwerp"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.demorgen.be/buitenland/de-wever-merkel-heeft-deze-puinhoop-zelf-veroorzaakt-bfc7db68/",
+          "title": "De Wever: \"Merkel heeft deze puinhoop zelf veroorzaakt\". Wir schaffen das",
+          "newspaper": "De Morgen",
+          "date": "28 July 2016",
+          "access-date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.standaard.be/cnt/dmf20160728_02402833",
+          "title": "'Wereldleider met grootste ballen is een vrouw'. Ook positieve geluiden vanuit Belgische politiek na Merkels 'Wir schaffen das'",
+          "newspaper": "De Standaard",
+          "date": "28 July 2016",
+          "access-date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.demorgen.be/opinie/merkel-heeft-meer-lef-dan-alle-andere-europese-staatsleiders-samen-bf4ee964/",
+          "title": "Merkel heeft meer lef dan alle andere Europese staatsleiders samen",
+          "first": "Koen",
+          "last": "Fidal",
+          "newspaper": "De Morgen",
+          "date": "28 July 2016",
+          "access-date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.standaard.be/cnt/dmf20160728_02402677",
+          "title": "De Wever: 'Merkel heeft weg geplaveid voor Trump, Wilders en Le Pen'",
+          "newspaper": "De Standaard",
+          "series": "Vluchtelingencrisis",
+          "date": "28 July 2016",
+          "access-date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dezondag.be/nvabdw/",
+          "title": "N-VA-voorzitter Bart de Wever (47): \"Joden vermijden conflicten. Dat is het verschil met moslims\"",
+          "date": "18 March 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.politico.eu/article/bart-de-wever-jan-jambon-belgian-right-wing-party-fends-off-racism-accusations/",
+          "title": "Belgian right-wing party fends off racism accusations",
+          "date": "19 March 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Death threats and illness",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In December 2013, the Belgian newspaper Het Laatste Nieuws received a bullet in the post with a letter addressed to Bart De Wever, apparently from a communist extremist.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Het Laatste Nieuws"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Het Laatste Nieuws"
+                ]
+              }
+            },
+            {
+              "text": "De Wever received police protection."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2013, De Wever was admitted to hospital with severe anxiety and chest pains."
+            },
+            {
+              "text": "He was readmitted into an intensive care unit in February 2014 with a severe lung infection."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Michael Torfs",
+          "url": "http://www.deredactie.be/cm/vrtnieuws.english/News/1.1797510",
+          "title": "Het Laatste Nieuws receives bullet for Bart De Wever",
+          "publisher": "Deredactie.be",
+          "date": "6 December 2013",
+          "accessdate": "2014-07-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Michael Torfs",
+          "url": "http://www.deredactie.be/cm/vrtnieuws.english/News/1.1783746",
+          "title": "Bart De Wever hospitalised",
+          "publisher": "Deredactie.be",
+          "date": "2013-11-21",
+          "accessdate": "2014-07-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.demorgen.be/dm/nl/5036/Wetstraat/article/detail/1792939/2014/02/13/Bart-De-Wever-ligt-opnieuw-in-het-ziekenhuis.dhtml",
+          "title": "Bart De Wever ligt opnieuw in het ziekenhuis",
+          "publisher": "Demorgen.be",
+          "date": "2014-02-13",
+          "accessdate": "2014-07-09",
+          "language": "nl",
+          "archive-url": "https://web.archive.org/web/20140510040537/http://www.demorgen.be/dm/nl/5036/Wetstraat/article/detail/1792939/2014/02/13/Bart-De-Wever-ligt-opnieuw-in-het-ziekenhuis.dhtml",
+          "archive-date": "2014-05-10",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Panda suits",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2014, Bart De Wever made a live appearance at the Flemish television awards, dressed in a Panda suit; a reference to a decision by the Di Rupo government to import two pandas (Hao Hao and Xing Hui) at a cost per panda greater than the legal maximum director's salary in Belgium.",
+              "links": [
+                {
+                  "text": "Panda",
+                  "type": "internal",
+                  "page": "Giant panda"
+                }
+              ]
+            },
+            {
+              "text": "Nevertheless, because those pandas are initially gifts from the People's Republic of China, Di Rupo thought of it as impolite to refuse."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Hao Hao and Xing Hui",
+          "lan1": "nl",
+          "text1": "Hao Hao en Xing Hui",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://nieuws.vtm.be/tv-media/83780-panda-de-wever-valt-van-podium",
+          "title": "Panda De Wever valt van podium &#124; VTM NIEUWS",
+          "publisher": "Nieuws.vtm.be",
+          "date": "2014-03-15",
+          "accessdate": "2014-07-09",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Anja Otte",
+          "url": "http://www.flanderstoday.eu/politics/fifth-column-bring-pandas",
+          "title": "Fifth column: Bring in the pandas &#124; Flanders Today",
+          "publisher": "Flanderstoday.eu",
+          "accessdate": "2014-07-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Belga",
+          "title": "Le prêt des pandas à Pairi Daiza : un coût de 10 millions",
+          "url": "http://www.lesoir.be/474545/article/actualite/belgique/2014-02-21/pret-des-pandas-pairi-daiza-un-cout-10-millions",
+          "accessdate": "29 July 2014",
+          "publisher": "Le soir",
+          "date": "21 February 2014",
+          "language": "fr",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "PGL Antwerp 2022",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "De Wever made a guest appearance on the front stage of the PGL Antwerp 2022 Counter-Strike:Global Offensive tournament."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commons category-inline"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

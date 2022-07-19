@@ -1,0 +1,205 @@
+{
+  "title": "Mathias De Clercq",
+  "pageID": 38953753,
+  "categories": [
+    "1981 births",
+    "Mayors of Ghent",
+    "Open Vlaamse Liberalen en Democraten politicians",
+    "Living people",
+    "21st-century Belgian politicians",
+    "Belgian nobility"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mathias Toon Cecil Willy De Clercq, esq. (born 26 December 1981, Ghent) is a Belgian politician.",
+              "links": [
+                {
+                  "text": "esq",
+                  "type": "internal",
+                  "page": "Jonkheer"
+                },
+                {
+                  "text": "Belgian",
+                  "type": "internal",
+                  "page": "Belgians"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mathias Toon Cecil Willy De Clercq, esq."
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Flemish liberal party.",
+              "links": [
+                {
+                  "text": "Flemish liberal party",
+                  "type": "internal",
+                  "page": "Open Flemish Liberals and Democrats"
+                }
+              ]
+            },
+            {
+              "text": "At the moment he is the mayor of Ghent.",
+              "links": [
+                {
+                  "text": "mayor of Ghent",
+                  "type": "internal",
+                  "page": "List of mayors of Ghent"
+                }
+              ]
+            },
+            {
+              "text": "From 2007 until 2014 he was a federal representative, and from 2014 until 2019, he was a Flemish representative.",
+              "links": [
+                {
+                  "text": "federal representative",
+                  "type": "internal",
+                  "page": "List of members of the Chamber of Representatives of Belgium"
+                }
+              ]
+            },
+            {
+              "text": "From 2007 until 2019 he was a schepen in Ghent.",
+              "links": [
+                {
+                  "text": "schepen",
+                  "type": "internal",
+                  "page": "schepen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ghent"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "schepen"
+                ]
+              }
+            },
+            {
+              "text": "He belongs to the social liberal wing of his party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Clercq was born in Ghent, son of lawyer and alderman Yannick Frans de Clercq (1954), grand officer of the Order of Leopold II.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Order of Leopold II"
+                }
+              ]
+            },
+            {
+              "text": "He is the grandson of Viscount Willy De Clercq, a former European Commissioner.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Willy De Clercq"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Commissioner"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:DeClercq_Mathias_04.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/DeClercq_Mathias_04.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/DeClercq_Mathias_04.jpg",
+          "caption": "Mathias De Clercq",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Flemish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2013",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "http://www.mathiasdeclercq.be/"
+          ],
+          "template": "official"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "flanders-politician-stub"
+        },
+        {
+          "template": "belgium-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

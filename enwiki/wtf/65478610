@@ -1,0 +1,178 @@
+{
+  "title": "Karine Lalieux",
+  "pageID": 65478610,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Place of birth missing (living people)",
+    "Women government ministers of Belgium",
+    "Parti Socialiste (Belgium) politicians",
+    "21st-century Belgian women politicians",
+    "Université libre de Bruxelles alumni",
+    "Government ministers of Belgium"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Karine Lalieux (born 4 May 1964) is a Belgian politician of the Socialist Party (PS) who has been serving as Minister of Pensions, Social Integration, Fighting Poverty and Disabled Persons in the government of Prime Minister Alexander De Croo since 2020.",
+              "links": [
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Parti Socialiste (Belgium)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "De Croo Government"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Belgium"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander De Croo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Karine Lalieux"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belgian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "5",
+          "day": "4",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Karine Lalieux"
+          },
+          "office": {
+            "text": "Minister of Pensions, Social Integration, Fighting Poverty and Disabled Persons"
+          },
+          "monarch": {
+            "text": "Philippe",
+            "links": [
+              {
+                "text": "Philippe",
+                "type": "internal",
+                "page": "Philippe of Belgium"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Alexander De Croo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander De Croo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 October 2020"
+          },
+          "birth_date": {
+            "text": "May 4, 1964"
+          },
+          "alma_mater": {
+            "text": "Université libre de Bruxelles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université libre de Bruxelles"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Karine Lalieux",
+          "url": "https://www.belgium.be/nl/over_belgie/overheid/federale_overheid/federale_regering/samenstelling_regering/index_karine_lalieux",
+          "url-status": "live",
+          "access-date": "31 December 2020",
+          "website": "belgium.be – Informatie en diensten van de overheid",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "1 October 2020",
+          "title": "Who is in Belgium’s new federal government?",
+          "work": "The Brussels Times",
+          "url": "https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "url-status": "live",
+          "access-date": "1 October 2020",
+          "archive-url": "https://web.archive.org/web/20201001110756/https://www.brusselstimes.com/news/belgium-all-news/politics/133699/who-is-in-belgiums-new-federal-government/",
+          "archive-date": "1 October 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "30 September 2020",
+          "title": "Le casting du gouvernement De Croo",
+          "url": "https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063003/https://www.lecho.be/economie-politique/dossiers/gouvernement-federal-2020.html",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "L'Echo",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Neirynck",
+          "first": "Pieterjan",
+          "date": "1 October 2020",
+          "title": "Comeback Vandenbroucke, geen Calvo of De Block: dit zijn de gezichten van de nieuwe federale regering",
+          "url": "https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20201001063543/https://businessam.be/comeback-vandenbroucke-geen-calvo-of-de-block-dit-zijn-de-gezichten-van-de-nieuwe-federale-regering/",
+          "archive-date": "1 October 2020",
+          "access-date": "1 October 2020",
+          "website": "Business AM",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "brussels-politician-stub"
+        }
+      ]
+    }
+  ]
+}
