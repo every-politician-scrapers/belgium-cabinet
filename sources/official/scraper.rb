@@ -11,6 +11,9 @@ class MemberList
     end
 
     def position
+      return ['Minister of Foreign Affairs', 'Minister of European Affairs',  'Minister of Foreign Trade'] if
+        nodes.last == 'Minister of Foreign Affairs, European Affairs and Foreign Trade and the Federal Cultural Institutions'
+
       nodes.last.sub('Prime Minister, in charge of', 'Prime Minister and Minister of').split(/(?:and (?=Minister)|&)/).map(&:tidy)
     end
 
