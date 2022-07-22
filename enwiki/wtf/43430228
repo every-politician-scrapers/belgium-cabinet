@@ -133,7 +133,7 @@
           "image": {
             "text": "Petra de Sutter at ILGA conference 2018 Political Town Hall 06 (cropped).jpg"
           },
-          "office": {
+          "office1": {
             "text": "Minister of Civil Service",
             "links": [
               {
@@ -143,10 +143,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "1 October 2020"
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Alexander De Croo",
             "links": [
               {
@@ -155,7 +155,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "David Clarinval",
             "links": [
               {
@@ -164,7 +164,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Member of the European Parliament\nfor Belgium",
             "links": [
               {
@@ -178,7 +178,7 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "2019",
             "number": 2019,
             "links": [
@@ -189,7 +189,7 @@
               }
             ]
           },
-          "term_end1": {
+          "term_end2": {
             "text": "2020",
             "number": 2020
           },
@@ -258,17 +258,27 @@
           "website": {
             "text": "http://www.petradesutter.be"
           },
-          "office5": {
+          "office": {
             "text": "Deputy Prime Minister of Belgium",
             "links": [
               {
+                "text": "Deputy Prime Minister of Belgium",
                 "type": "internal",
-                "page": "Belgium"
+                "page": "Prime Minister of Belgium"
               }
             ]
           },
-          "term_start5": {
+          "term_start": {
             "text": "1 October 2020"
+          },
+          "primeminister": {
+            "text": "Alexander De Croo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander De Croo"
+              }
+            ]
           }
         }
       ],

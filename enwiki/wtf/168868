@@ -418,6 +418,35 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Albert and Paola's marriage was unhappy, and they were usually absent from Philippe's life."
+            },
+            {
+              "text": "The child neglect was so severe that child psychologist Peter Adriaenssens described it as justifying intervention by social workers.",
+              "links": [
+                {
+                  "text": "child neglect",
+                  "type": "internal",
+                  "page": "child neglect"
+                },
+                {
+                  "text": "social workers",
+                  "type": "internal",
+                  "page": "social worker"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Peter Adriaenssens",
+          "lan1": "nl",
+          "template": "ill"
         }
       ],
       "references": [
@@ -442,6 +471,18 @@
           "type": "web"
         },
         {
+          "last": "Moens",
+          "first": "Barbara",
+          "date": "2022-07-21",
+          "title": "Belgian king prepares to hand his daughter the curse of the crown",
+          "url": "https://www.politico.eu/article/belgian-king-prepare-hand-daughter-curse-crown/",
+          "magazine": "Politico",
+          "language": "en-US",
+          "access-date": "2022-07-20",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
           "date": "July 2021",
           "template": "citation needed"
         }
@@ -453,6 +494,9 @@
       "paragraphs": [
         {
           "sentences": [
+            {
+              "text": "As a child the future king was required to transfer from a French-language school he enjoyed to a school in Flanders he disliked."
+            },
             {
               "text": "From 1978 to 1981, Philippe was educated at the Belgian Royal Military Academy in the 118th \"Promotion Toutes Armes\".",
               "links": [
