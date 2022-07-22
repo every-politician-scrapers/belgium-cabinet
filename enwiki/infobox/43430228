@@ -1,12 +1,12 @@
 {
   "name": "Petra De Sutter",
-  "office": "Minister of Civil Service",
-  "term_start": "1 October 2020",
-  "primeminister": "Alexander De Croo",
-  "predecessor": "David Clarinval",
-  "office1": "Member of the European Parliament\nfor Belgium",
-  "term_start1": "2019",
-  "term_end1": "2020",
+  "office1": "Minister of Civil Service",
+  "term_start1": "1 October 2020",
+  "primeminister1": "Alexander De Croo",
+  "predecessor1": "David Clarinval",
+  "office2": "Member of the European Parliament\nfor Belgium",
+  "term_start2": "2019",
+  "term_end2": "2020",
   "office3": "Member of the Belgian Senate",
   "term_start3": "June 2014",
   "term_end3": "2019",
@@ -16,6 +16,7 @@
   "party": "Groen",
   "alma_mater": "Ghent University",
   "website": "http://www.petradesutter.be",
-  "office5": "Deputy Prime Minister of Belgium",
-  "term_start5": "1 October 2020"
+  "office": "Deputy Prime Minister of Belgium",
+  "term_start": "1 October 2020",
+  "primeminister": "Alexander De Croo"
 }
